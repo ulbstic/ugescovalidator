@@ -18,5 +18,6 @@ setup(
     author='Ettore Rizza',
     author_email='erizza@ulb.ac.be',
     description='clustering and disambiguisation of a list of place names',
-    install_reqs=install_reqs
+    python_requires='>=3.5',
+    install_requires=install_reqs
 )
