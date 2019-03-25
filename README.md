@@ -1,3 +1,5 @@
-# UGESCO
+# ugescovalidator
 
-https://mybinder.org/v2/gh/ettorerizza/UGESCO/master
+Require Python 3
+cd in ugescovalidator folder
+`pip install -r requirements.txt`
