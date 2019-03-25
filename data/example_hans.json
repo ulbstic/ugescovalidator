@@ -1,0 +1,23 @@
+[
+    {
+        "temporal": {
+            "key": [
+                "TIMEX_DATE"
+            ],
+            "value": [
+                "4 mars 1933"
+            ]
+        },
+        "spatial": {
+            "key": [
+                "LOC_PLACE",
+                "LOC_STREET"
+            ],
+            "value": [
+                "Bruxelles",
+                "rue de la Loi"
+            ]
+        },
+        "beeldid": "0000038"
+    }
+]

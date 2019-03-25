@@ -1,0 +1,73 @@
+[
+  {
+    "beeldid": "0000003",
+    "temporal": null,
+    "spatial": {
+      "key": [
+        "LOC_PLACE"
+      ],
+      "value": [
+        "Bruxelles"
+      ]
+    }
+  },
+  {
+    "beeldid": "0000203",
+    "temporal": {
+      "key": [
+        "TIMEX_DATE"
+      ],
+      "value": [
+        "1940-1943"
+      ]
+    },
+    "spatial": {
+      "key": [
+        "LOC_PLACE"
+      ],
+      "value": [
+        "Bruxelles"
+      ]
+    }
+  },
+  {
+    "beeldid": "0002765",
+    "temporal": null,
+    "spatial": {
+      "key": [
+        "LOC_PLACE",
+        "LOC_PLACE",
+        "LOC_PLACE"
+      ],
+      "value": [
+        "Borchgrave",
+        "Belgique",
+        "Madrid"
+      ]
+    }
+  },
+  {
+    "beeldid": "0002811",
+    "temporal": {
+      "key": [
+        "TIMEX_TIME"
+      ],
+      "value": [
+        "1937"
+      ]
+    },
+    "spatial": {
+      "key": [
+        "LOC_PLACE"
+      ],
+      "value": [
+        "Bruxelles"
+      ]
+    }
+  },
+  {
+    "beeldid": "0002984",
+    "temporal": null,
+    "spatial": null
+  }
+]

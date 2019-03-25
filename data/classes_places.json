@@ -1,0 +1,3442 @@
+[
+  {
+    "original_class": "airfield",
+    "wiki_label": "aerodrome",
+    "wiki_id": "Q62447",
+    "wiki_description": "location from which aircraft flight operations take place",
+    "wiki_link": "https://www.wikidata.org/wiki/Q62447",
+    "AAT_ID": 300000679,
+    "AAT_preffered_term": "airfields",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000679"
+  },
+  {
+    "original_class": "airplane cabin",
+    "wiki_label": "airplane",
+    "wiki_id": "Q197",
+    "wiki_description": "powered aircraft capable of flight using fixed wings that generate lift",
+    "wiki_link": "https://www.wikidata.org/wiki/Q197",
+    "AAT_ID": 300212616,
+    "AAT_preffered_term": "airplanes",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300212616"
+  },
+  {
+    "original_class": "airport terminal",
+    "wiki_label": "airport terminal",
+    "wiki_id": "Q849706",
+    "wiki_description": "airport facility where passengers move between air and ground transportation vessels",
+    "wiki_link": "https://www.wikidata.org/wiki/Q849706",
+    "AAT_ID": 300411446,
+    "AAT_preffered_term": "arrival terminals",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300411446"
+  },
+  {
+    "original_class": "alcove",
+    "wiki_label": "alcove",
+    "wiki_id": "Q1067091",
+    "wiki_description": "recessed area open from a larger room but enclosed by architectural elements",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1067091",
+    "AAT_ID": 300004054,
+    "AAT_preffered_term": "alcoves",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004054"
+  },
+  {
+    "original_class": "alley",
+    "wiki_label": "alley",
+    "wiki_id": "Q1251403",
+    "wiki_description": "narrow street",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1251403",
+    "AAT_ID": 300008248,
+    "AAT_preffered_term": "alleys (streets)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008248"
+  },
+  {
+    "original_class": "amphitheater",
+    "wiki_label": "amphitheatre",
+    "wiki_id": "Q54831",
+    "wiki_description": "open-air venue used for entertainment and performances",
+    "wiki_link": "https://www.wikidata.org/wiki/Q54831",
+    "AAT_ID": 300007128,
+    "AAT_preffered_term": "amphitheaters (built works)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007128"
+  },
+  {
+    "original_class": "amusement arcade",
+    "wiki_label": "amusement arcade",
+    "wiki_id": "Q260676",
+    "wiki_description": "a place to play video games and other coin operated games",
+    "wiki_link": "https://www.wikidata.org/wiki/Q260676",
+    "AAT_ID": 300007207,
+    "AAT_preffered_term": "amusement arcades",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007207"
+  },
+  {
+    "original_class": "amusement park",
+    "wiki_label": "amusement park",
+    "wiki_id": "Q194195",
+    "wiki_description": "park with rides and attractions",
+    "wiki_link": "https://www.wikidata.org/wiki/Q194195",
+    "AAT_ID": 300000512,
+    "AAT_preffered_term": "amusement parks",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000512"
+  },
+  {
+    "original_class": "apartment building",
+    "wiki_label": "apartment building",
+    "wiki_id": "Q13402009",
+    "wiki_description": "multiunit residential dwelling",
+    "wiki_link": "https://www.wikidata.org/wiki/Q13402009",
+    "AAT_ID": 300005707,
+    "AAT_preffered_term": "apartment houses",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005707"
+  },
+  {
+    "original_class": "aquarium",
+    "wiki_label": "public aquarium",
+    "wiki_id": "Q2281788",
+    "wiki_description": "facility with large tanks for water-dwelling species",
+    "wiki_link": "https://www.wikidata.org/wiki/Q2281788",
+    "AAT_ID": 300005756,
+    "AAT_preffered_term": "aquariums (buildings)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005756"
+  },
+  {
+    "original_class": "aqueduct",
+    "wiki_label": "aqueduct",
+    "wiki_id": "Q474",
+    "wiki_description": "structure constructed to convey water",
+    "wiki_link": "https://www.wikidata.org/wiki/Q474",
+    "AAT_ID": 300006165,
+    "AAT_preffered_term": "aqueducts",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300006165"
+  },
+  {
+    "original_class": "arcade",
+    "wiki_label": "arcade",
+    "wiki_id": "Q186637",
+    "wiki_description": "covered walk enclosed by a line of arches on one or both sides",
+    "wiki_link": "https://www.wikidata.org/wiki/Q186637",
+    "AAT_ID": 300002580,
+    "AAT_preffered_term": "arcades (structural assemblies)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300002580"
+  },
+  {
+    "original_class": "arch",
+    "wiki_label": "arch",
+    "wiki_id": "Q12277",
+    "wiki_description": "structure that spans a space and supports a load",
+    "wiki_link": "https://www.wikidata.org/wiki/Q12277",
+    "AAT_ID": 300000994,
+    "AAT_preffered_term": "arches",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000994"
+  },
+  {
+    "original_class": "archaelogical excavation",
+    "wiki_label": "archaeological site",
+    "wiki_id": "Q839954",
+    "wiki_description": "place (or group of physical sites) in which evidence of past activity is preserved",
+    "wiki_link": "https://www.wikidata.org/wiki/Q839954",
+    "AAT_ID": 300000810,
+    "AAT_preffered_term": "archaeological sites",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000810"
+  },
+  {
+    "original_class": "archive",
+    "wiki_label": "archive",
+    "wiki_id": "Q166118",
+    "wiki_description": "building (or portion thereof) housing archival collections",
+    "wiki_link": "https://www.wikidata.org/wiki/Q166118",
+    "AAT_ID": 300124822,
+    "AAT_preffered_term": "archives (buildings)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300124822"
+  },
+  {
+    "original_class": "arena",
+    "wiki_label": "arena",
+    "wiki_id": "Q641226",
+    "wiki_description": "enclosed area designed to showcase theater, musical performances, or sporting events",
+    "wiki_link": "https://www.wikidata.org/wiki/Q641226",
+    "AAT_ID": 300007268,
+    "AAT_preffered_term": "arenas (sports buildings)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007268"
+  },
+  {
+    "original_class": "army base",
+    "wiki_label": "military base",
+    "wiki_id": "Q245016",
+    "wiki_description": "facility directly owned and operated by or for the military",
+    "wiki_link": "https://www.wikidata.org/wiki/Q245016",
+    "AAT_ID": 300000461,
+    "AAT_preffered_term": "army bases",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000461"
+  },
+  {
+    "original_class": "art gallery",
+    "wiki_label": "art gallery",
+    "wiki_id": "Q1007870",
+    "wiki_description": "place where (contemporary) art is sold and exhibited",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1007870",
+    "AAT_ID": 300005232,
+    "AAT_preffered_term": "art galleries (buildings)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005232"
+  },
+  {
+    "original_class": "artists loft",
+    "wiki_label": "loft",
+    "wiki_id": "Q620861",
+    "wiki_description": "near-roof part of a building",
+    "wiki_link": "https://www.wikidata.org/wiki/Q620861",
+    "AAT_ID": 300255116,
+    "AAT_preffered_term": "lofts (upper level floors)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300255116"
+  },
+  {
+    "original_class": "art school",
+    "wiki_label": "art school",
+    "wiki_id": "Q383092",
+    "wiki_description": "educational institution with a primary focus on the visual arts",
+    "wiki_link": "https://www.wikidata.org/wiki/Q383092",
+    "AAT_ID": 300006495,
+    "AAT_preffered_term": "schools (building)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300006495"
+  },
+  {
+    "original_class": "art studio",
+    "wiki_label": "studio",
+    "wiki_id": "Q746628",
+    "wiki_description": "artist’s or photographer’s workshop",
+    "wiki_link": "https://www.wikidata.org/wiki/Q746628",
+    "AAT_ID": 300007725,
+    "AAT_preffered_term": "studios (work spaces)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007725"
+  },
+  {
+    "original_class": "assembly line",
+    "wiki_label": "factory",
+    "wiki_id": "Q83405",
+    "wiki_description": "facility where goods are made, or processed",
+    "wiki_link": "https://www.wikidata.org/wiki/Q83405",
+    "AAT_ID": 300006232,
+    "AAT_preffered_term": "factories (structures)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300006232"
+  },
+  {
+    "original_class": "athletic field",
+    "wiki_label": "pitch",
+    "wiki_id": "Q2310214",
+    "wiki_description": "surface on which a sports game takes place",
+    "wiki_link": "https://www.wikidata.org/wiki/Q2310214",
+    "AAT_ID": 300170875,
+    "AAT_preffered_term": "athletic fields",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300170875"
+  },
+  {
+    "original_class": "atrium",
+    "wiki_label": "atrium",
+    "wiki_id": "Q189265",
+    "wiki_description": "courtyard in a Roman domus",
+    "wiki_link": "https://www.wikidata.org/wiki/Q189265",
+    "AAT_ID": 300080798,
+    "AAT_preffered_term": "atriums (interior spaces)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300080798"
+  },
+  {
+    "original_class": "attic",
+    "wiki_label": "attic",
+    "wiki_id": "Q244490",
+    "wiki_description": "space found directly below the pitched roof of a house or other building",
+    "wiki_link": "https://www.wikidata.org/wiki/Q244490",
+    "AAT_ID": 300002651,
+    "AAT_preffered_term": "attics (exterior stories)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300002651"
+  },
+  {
+    "original_class": "auditorium",
+    "wiki_label": "auditorium",
+    "wiki_id": "Q230752",
+    "wiki_description": "room for an audience to hear and watch performances",
+    "wiki_link": "https://www.wikidata.org/wiki/Q230752",
+    "AAT_ID": 300004394,
+    "AAT_preffered_term": "auditoriums",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004394"
+  },
+  {
+    "original_class": "auto factory",
+    "wiki_label": "factory",
+    "wiki_id": "Q83405",
+    "wiki_description": "facility where goods are made, or processed",
+    "wiki_link": "https://www.wikidata.org/wiki/Q83405",
+    "AAT_ID": 300265191,
+    "AAT_preffered_term": "automobile factories",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300265191"
+  },
+  {
+    "original_class": "auto showroom",
+    "wiki_label": "showroom",
+    "wiki_id": "Q2094773",
+    "wiki_description": "room where products are displayed",
+    "wiki_link": "https://www.wikidata.org/wiki/Q2094773",
+    "AAT_ID": 300004331,
+    "AAT_preffered_term": "showrooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004331"
+  },
+  {
+    "original_class": "badlands",
+    "wiki_label": "badlands",
+    "wiki_id": "Q272921",
+    "wiki_description": "landform",
+    "wiki_link": "https://www.wikidata.org/wiki/Q272921",
+    "AAT_ID": 300387013,
+    "AAT_preffered_term": "badlands",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300387013"
+  },
+  {
+    "original_class": "bakery",
+    "wiki_label": "bakery",
+    "wiki_id": "Q274393",
+    "wiki_description": "establishment that produces and sells flour-based food baked in an oven",
+    "wiki_link": "https://www.wikidata.org/wiki/Q274393",
+    "AAT_ID": 300005291,
+    "AAT_preffered_term": "bakeries",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005291"
+  },
+  {
+    "original_class": "balcony",
+    "wiki_label": "balcony",
+    "wiki_id": "Q170552",
+    "wiki_description": "platform projecting from the wall of a building",
+    "wiki_link": "https://www.wikidata.org/wiki/Q170552",
+    "AAT_ID": 300002588,
+    "AAT_preffered_term": "balconies",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300002588"
+  },
+  {
+    "original_class": "ball pit",
+    "wiki_label": "ball pit",
+    "wiki_id": "Q1317729",
+    "wiki_description": "padded box or pool filled with small colorful hollow plastic balls",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1317729",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "ballroom",
+    "wiki_label": "ballroom",
+    "wiki_id": "Q805353",
+    "wiki_description": "large room for holding formal balls",
+    "wiki_link": "https://www.wikidata.org/wiki/Q805353",
+    "AAT_ID": 300004413,
+    "AAT_preffered_term": "ballrooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004413"
+  },
+  {
+    "original_class": "bamboo forest",
+    "wiki_label": "forest",
+    "wiki_id": "Q4421",
+    "wiki_description": "dense collection of trees covering a relatively large area",
+    "wiki_link": "https://www.wikidata.org/wiki/Q4421",
+    "AAT_ID": 300132451,
+    "AAT_preffered_term": "woods (plant communities)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300132451"
+  },
+  {
+    "original_class": "bank vault",
+    "wiki_label": "bank vault",
+    "wiki_id": "Q3501496",
+    "wiki_description": "secure space where money, valuables, records, and documents are stored",
+    "wiki_link": "https://www.wikidata.org/wiki/Q3501496",
+    "AAT_ID": 300248082,
+    "AAT_preffered_term": "safes (storage containers)",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "banquet hall",
+    "wiki_label": "conference room",
+    "wiki_id": "Q3469909",
+    "wiki_description": "internal space used for a group meeting or reception",
+    "wiki_link": "https://www.wikidata.org/wiki/Q3469909",
+    "AAT_ID": 300004333,
+    "AAT_preffered_term": "banquet halls",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004333"
+  },
+  {
+    "original_class": "bar",
+    "wiki_label": "bar",
+    "wiki_id": "Q187456",
+    "wiki_description": "establishment serving alcoholic beverages for consumption on the premises",
+    "wiki_link": "https://www.wikidata.org/wiki/Q187456",
+    "AAT_ID": 300005158,
+    "AAT_preffered_term": "bars (commercial buildings)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005158"
+  },
+  {
+    "original_class": "barn",
+    "wiki_label": "barn",
+    "wiki_id": "Q1303167",
+    "wiki_description": "agricultural building used for storage and as a covered workplace",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1303167",
+    "AAT_ID": 300004900,
+    "AAT_preffered_term": "barns",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004900"
+  },
+  {
+    "original_class": "barndoor",
+    "wiki_label": "barn",
+    "wiki_id": "Q1303167",
+    "wiki_description": "agricultural building used for storage and as a covered workplace",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1303167",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "baseball field",
+    "wiki_label": "baseball field",
+    "wiki_id": "Q809889",
+    "wiki_description": "field on which baseball is played (for the whole stadium, see baseball park)",
+    "wiki_link": "https://www.wikidata.org/wiki/Q809889",
+    "AAT_ID": 300000567,
+    "AAT_preffered_term": "baseball fields",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000567"
+  },
+  {
+    "original_class": "basement",
+    "wiki_label": "basement",
+    "wiki_id": "Q234852",
+    "wiki_description": "below-ground floor of a building",
+    "wiki_link": "https://www.wikidata.org/wiki/Q234852",
+    "AAT_ID": 300004757,
+    "AAT_preffered_term": "basements",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004757"
+  },
+  {
+    "original_class": "basketball court",
+    "wiki_label": "basketball court",
+    "wiki_id": "Q2341939",
+    "wiki_description": "space equipped for playing basketball",
+    "wiki_link": "https://www.wikidata.org/wiki/Q2341939",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "bathroom",
+    "wiki_label": "bathroom",
+    "wiki_id": "Q190771",
+    "wiki_description": "room for personal hygiene",
+    "wiki_link": "https://www.wikidata.org/wiki/Q190771",
+    "AAT_ID": 300004197,
+    "AAT_preffered_term": "bathrooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004197"
+  },
+  {
+    "original_class": "bazaar",
+    "wiki_label": "bazaar",
+    "wiki_id": "Q219760",
+    "wiki_description": "type of public marketplace",
+    "wiki_link": "https://www.wikidata.org/wiki/Q219760",
+    "AAT_ID": 300000256,
+    "AAT_preffered_term": "bazaars (marketplaces)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000256"
+  },
+  {
+    "original_class": "beach",
+    "wiki_label": "beach",
+    "wiki_id": "Q40080",
+    "wiki_description": "area of sand or small stones near the sea or another area of water such as a lake",
+    "wiki_link": "https://www.wikidata.org/wiki/Q40080",
+    "AAT_ID": 300008816,
+    "AAT_preffered_term": "beaches",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008816"
+  },
+  {
+    "original_class": "beach house",
+    "wiki_label": "beach house",
+    "wiki_id": "Q3249386",
+    "wiki_description": "a house on or near a beach",
+    "wiki_link": "https://www.wikidata.org/wiki/Q3249386",
+    "AAT_ID": 300005588,
+    "AAT_preffered_term": "beach houses",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005588"
+  },
+  {
+    "original_class": "beauty salon",
+    "wiki_label": "beauty salon",
+    "wiki_id": "Q1195245",
+    "wiki_description": "establishment dealing in cosmetic treatments, such as hairdressing and nail services",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1195245",
+    "AAT_ID": 300005253,
+    "AAT_preffered_term": "beauty shops",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005253"
+  },
+  {
+    "original_class": "bedchamber",
+    "wiki_label": "bedroom",
+    "wiki_id": "Q193837",
+    "wiki_description": "private room where people usually sleep for the night or relax during the day",
+    "wiki_link": "https://www.wikidata.org/wiki/Q193837",
+    "AAT_ID": 300004364,
+    "AAT_preffered_term": "bedrooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004364"
+  },
+  {
+    "original_class": "bedroom",
+    "wiki_label": "bedroom",
+    "wiki_id": "Q193837",
+    "wiki_description": "private room where people usually sleep for the night or relax during the day",
+    "wiki_link": "https://www.wikidata.org/wiki/Q193837",
+    "AAT_ID": 300004364,
+    "AAT_preffered_term": "bedrooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004364"
+  },
+  {
+    "original_class": "beer garden",
+    "wiki_label": "beer garden",
+    "wiki_id": "Q857909",
+    "wiki_description": "outdoor area in which beer, other drinks, and local food are served",
+    "wiki_link": "https://www.wikidata.org/wiki/Q857909",
+    "AAT_ID": 300005173,
+    "AAT_preffered_term": "beer gardens",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005173"
+  },
+  {
+    "original_class": "beer hall",
+    "wiki_label": "beer hall",
+    "wiki_id": "Q858012",
+    "wiki_description": "large drinking establishment mostly serving beer",
+    "wiki_link": "https://www.wikidata.org/wiki/Q858012",
+    "AAT_ID": 300005174,
+    "AAT_preffered_term": "beer halls",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005174"
+  },
+  {
+    "original_class": "berth",
+    "wiki_label": "berth",
+    "wiki_id": "Q1153558",
+    "wiki_description": "designated location in a port or harbour used for mooring vessels",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1153558",
+    "AAT_ID": 300007927,
+    "AAT_preffered_term": "berths (waterfront spaces)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007927"
+  },
+  {
+    "original_class": "biology laboratory",
+    "wiki_label": "laboratory",
+    "wiki_id": "Q483242",
+    "wiki_description": "facility that provides controlled conditions in which scientific or technological research, experiments, and measurement may be performed.",
+    "wiki_link": "https://www.wikidata.org/wiki/Q483242",
+    "AAT_ID": 300386256,
+    "AAT_preffered_term": "scientific laboratories",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "boardwalk",
+    "wiki_label": "boardwalk",
+    "wiki_id": "Q11111030",
+    "wiki_description": "pedestrian walkway along beaches or in nature areas, often built using wood boards",
+    "wiki_link": "https://www.wikidata.org/wiki/Q11111030",
+    "AAT_ID": 300189544,
+    "AAT_preffered_term": "boardwalks",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300189544"
+  },
+  {
+    "original_class": "boat deck",
+    "wiki_label": "deck",
+    "wiki_id": "Q208123",
+    "wiki_description": "part of a ship or boat",
+    "wiki_link": "https://www.wikidata.org/wiki/Q208123",
+    "AAT_ID": 300178749,
+    "AAT_preffered_term": "boats",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300178749"
+  },
+  {
+    "original_class": "boathouse",
+    "wiki_label": "boathouse",
+    "wiki_id": "Q1777951",
+    "wiki_description": "building for storage of boats",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1777951",
+    "AAT_ID": 300007829,
+    "AAT_preffered_term": "boathouses",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007829"
+  },
+  {
+    "original_class": "bookstore",
+    "wiki_label": "bookstore",
+    "wiki_id": "Q200764",
+    "wiki_description": "commercial trader of books",
+    "wiki_link": "https://www.wikidata.org/wiki/Q200764",
+    "AAT_ID": 300005297,
+    "AAT_preffered_term": "bookstores",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005297"
+  },
+  {
+    "original_class": "booth",
+    "wiki_label": "shelter",
+    "wiki_id": "Q7493941",
+    "wiki_description": "basic architectural structure or building that provides cover",
+    "wiki_link": "https://www.wikidata.org/wiki/Q7493941",
+    "AAT_ID": 300004086,
+    "AAT_preffered_term": "booths",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004086"
+  },
+  {
+    "original_class": "botanical garden",
+    "wiki_label": "botanical garden",
+    "wiki_id": "Q167346",
+    "wiki_description": "well-tended area displaying a wide range of plants labelled with their botanical names",
+    "wiki_link": "https://www.wikidata.org/wiki/Q167346",
+    "AAT_ID": 300008107,
+    "AAT_preffered_term": "botanical gardens",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008107"
+  },
+  {
+    "original_class": "bowling alley",
+    "wiki_label": "bowling alley",
+    "wiki_id": "Q27106471",
+    "wiki_description": "place where consumers can practice and compete in the sport of bowling often for a fee and rental equipment.",
+    "wiki_link": "https://www.wikidata.org/wiki/Q27106471",
+    "AAT_ID": 300007285,
+    "AAT_preffered_term": "bowling alleys",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007285"
+  },
+  {
+    "original_class": "bow window",
+    "wiki_label": "bow windows",
+    "wiki_id": "Q767827",
+    "wiki_description": "bay windows that are curved in plan",
+    "wiki_link": "https://www.wikidata.org/wiki/Q767827",
+    "AAT_ID": 300002961,
+    "AAT_preffered_term": "bow windows",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300002961"
+  },
+  {
+    "original_class": "boxing ring",
+    "wiki_label": "boxing ring",
+    "wiki_id": "Q2290113",
+    "wiki_description": "space in which a boxing match occurs",
+    "wiki_link": "https://www.wikidata.org/wiki/Q2290113",
+    "AAT_ID": 300007268,
+    "AAT_preffered_term": "arenas (sports buildings) ",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "bridge",
+    "wiki_label": "bridge",
+    "wiki_id": "Q12280",
+    "wiki_description": "structure built to span physical obstacles",
+    "wiki_link": "https://www.wikidata.org/wiki/Q12280",
+    "AAT_ID": 300007836,
+    "AAT_preffered_term": "bridges (built works)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007836"
+  },
+  {
+    "original_class": "building facade",
+    "wiki_label": "building",
+    "wiki_id": "Q41176",
+    "wiki_description": "structure, typically with a roof and walls, standing more or less permanently in one place",
+    "wiki_link": "https://www.wikidata.org/wiki/Q41176",
+    "AAT_ID": 300004792,
+    "AAT_preffered_term": "buildings (structures)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004792"
+  },
+  {
+    "original_class": "bullring",
+    "wiki_label": "bullring",
+    "wiki_id": "Q1193438",
+    "wiki_description": "arena where bullfighting is performed",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1193438",
+    "AAT_ID": 300007291,
+    "AAT_preffered_term": "bullrings",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007291"
+  },
+  {
+    "original_class": "burial chamber",
+    "wiki_label": "chamber tomb",
+    "wiki_id": "Q358316",
+    "wiki_description": "communal burial places, cut into rock or hillslopes or constructed of masonry, whose chamber may or may not have an entry passage, usually covered by a mound",
+    "wiki_link": "https://www.wikidata.org/wiki/Q358316",
+    "AAT_ID": 300004088,
+    "AAT_preffered_term": "burial chambers",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004088"
+  },
+  {
+    "original_class": "bus interior",
+    "wiki_label": "bus",
+    "wiki_id": "Q5638",
+    "wiki_description": "large road vehicle for transporting people",
+    "wiki_link": "https://www.wikidata.org/wiki/Q5638",
+    "AAT_ID": 300212677,
+    "AAT_preffered_term": "buses",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300212677"
+  },
+  {
+    "original_class": "bus station",
+    "wiki_label": "bus station",
+    "wiki_id": "Q494829",
+    "wiki_description": "structure, larger than a bus stop, where city or intercity buses stop to pick up and drop off passengers",
+    "wiki_link": "https://www.wikidata.org/wiki/Q494829",
+    "AAT_ID": 300007805,
+    "AAT_preffered_term": "bus stations",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007805"
+  },
+  {
+    "original_class": "butchers shop",
+    "wiki_label": "butcher",
+    "wiki_id": "Q329737",
+    "wiki_description": "person who may slaughter animals, dress their flesh, sell their meat",
+    "wiki_link": "https://www.wikidata.org/wiki/Q329737",
+    "AAT_ID": 300262995,
+    "AAT_preffered_term": "butcher shops",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300262995"
+  },
+  {
+    "original_class": "butte",
+    "wiki_label": "butte",
+    "wiki_id": "Q6554910",
+    "wiki_description": "isolated hill with steep, often vertical sides and a small, relatively flat top",
+    "wiki_link": "https://www.wikidata.org/wiki/Q6554910",
+    "AAT_ID": 300008744,
+    "AAT_preffered_term": "buttes",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008744"
+  },
+  {
+    "original_class": "cabin",
+    "wiki_label": "mountain hut",
+    "wiki_id": "Q182676",
+    "wiki_description": "building located in the mountains",
+    "wiki_link": "https://www.wikidata.org/wiki/Q182676",
+    "AAT_ID": 300005496,
+    "AAT_preffered_term": "cabins (houses)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005496"
+  },
+  {
+    "original_class": "cafeteria",
+    "wiki_label": "cafeteria",
+    "wiki_id": "Q8463304",
+    "wiki_description": "food service location in which there is little or no waiting staff table service",
+    "wiki_link": "https://www.wikidata.org/wiki/Q8463304",
+    "AAT_ID": 300004342,
+    "AAT_preffered_term": "cafeterias (eating and drinking spaces)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004342"
+  },
+  {
+    "original_class": "campsite",
+    "wiki_label": "campsite",
+    "wiki_id": "Q832778",
+    "wiki_description": "place used for overnight stay in the outdoors",
+    "wiki_link": "https://www.wikidata.org/wiki/Q832778",
+    "AAT_ID": 300008168,
+    "AAT_preffered_term": "camps (temporary settlements)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008168"
+  },
+  {
+    "original_class": "campus",
+    "wiki_label": "campus",
+    "wiki_id": "Q209465",
+    "wiki_description": "land on which a college or university and related institutional buildings are situated",
+    "wiki_link": "https://www.wikidata.org/wiki/Q209465",
+    "AAT_ID": 300000333,
+    "AAT_preffered_term": "campuses",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000333"
+  },
+  {
+    "original_class": "canal",
+    "wiki_label": "canal",
+    "wiki_id": "Q12284",
+    "wiki_description": "man-made channel for water",
+    "wiki_link": "https://www.wikidata.org/wiki/Q12284",
+    "AAT_ID": 300006075,
+    "AAT_preffered_term": "canals (waterways)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300006075"
+  },
+  {
+    "original_class": "candy store",
+    "wiki_label": "confectionery store",
+    "wiki_id": "Q3574069",
+    "wiki_description": "shop selling sweets",
+    "wiki_link": "https://www.wikidata.org/wiki/Q3574069",
+    "AAT_ID": 300005305,
+    "AAT_preffered_term": "confectioneries",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005305"
+  },
+  {
+    "original_class": "canyon",
+    "wiki_label": "canyon",
+    "wiki_id": "Q150784",
+    "wiki_description": "deep ravine between cliffs",
+    "wiki_link": "https://www.wikidata.org/wiki/Q150784",
+    "AAT_ID": 300008763,
+    "AAT_preffered_term": "canyons",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008763"
+  },
+  {
+    "original_class": "car interior",
+    "wiki_label": "car",
+    "wiki_id": "Q1144312",
+    "wiki_description": "motorized vehicle",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1144312",
+    "AAT_ID": 300178739,
+    "AAT_preffered_term": "automobiles",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "carrousel",
+    "wiki_label": "carousel",
+    "wiki_id": "Q208322",
+    "wiki_description": "amusement ride consisting of a rotating circular platform with seats for riders",
+    "wiki_link": "https://www.wikidata.org/wiki/Q208322",
+    "AAT_ID": 300007316,
+    "AAT_preffered_term": "carousels (rides)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007316"
+  },
+  {
+    "original_class": "castle",
+    "wiki_label": "castle",
+    "wiki_id": "Q23413",
+    "wiki_description": "type of fortified structure built in Europe, Asia and the Middle East during the Middle Ages by nobility",
+    "wiki_link": "https://www.wikidata.org/wiki/Q23413",
+    "AAT_ID": 300006891,
+    "AAT_preffered_term": "castles (fortifications)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300006891"
+  },
+  {
+    "original_class": "catacomb",
+    "wiki_label": "catacombs",
+    "wiki_id": "Q172896",
+    "wiki_description": "cemetery",
+    "wiki_link": "https://www.wikidata.org/wiki/Q172896",
+    "AAT_ID": 300000367,
+    "AAT_preffered_term": "catacombs",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000367"
+  },
+  {
+    "original_class": "cemetery",
+    "wiki_label": "cemetery",
+    "wiki_id": "Q39614",
+    "wiki_description": "place of burial",
+    "wiki_link": "https://www.wikidata.org/wiki/Q39614",
+    "AAT_ID": 300266755,
+    "AAT_preffered_term": "cemeteries",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300266755"
+  },
+  {
+    "original_class": "chalet",
+    "wiki_label": "chalet",
+    "wiki_id": "Q136689",
+    "wiki_description": "type of building or house, native to the Alpine region",
+    "wiki_link": "https://www.wikidata.org/wiki/Q136689",
+    "AAT_ID": 300005497,
+    "AAT_preffered_term": "chalets",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005497"
+  },
+  {
+    "original_class": "chemistry lab",
+    "wiki_label": "chemistry lab",
+    "wiki_id": "Q3214444",
+    "wiki_description": "Collective term for the premises in which chemical work is performed",
+    "wiki_link": "https://www.wikidata.org/wiki/Q3214444",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "childs room",
+    "wiki_label": "room",
+    "wiki_id": "Q180516",
+    "wiki_description": "distinguishable space within a building or other structure",
+    "wiki_link": "https://www.wikidata.org/wiki/Q180516",
+    "AAT_ID": 300133704,
+    "AAT_preffered_term": "rooms (interior spaces)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300133704"
+  },
+  {
+    "original_class": "church",
+    "wiki_label": "church",
+    "wiki_id": "Q16970",
+    "wiki_description": "religious building for Christian worship",
+    "wiki_link": "https://www.wikidata.org/wiki/Q16970",
+    "AAT_ID": 300007466,
+    "AAT_preffered_term": "churches (buildings)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007466"
+  },
+  {
+    "original_class": "classroom",
+    "wiki_label": "classroom",
+    "wiki_id": "Q621114",
+    "wiki_description": "room inside school building where lessons are held",
+    "wiki_link": "https://www.wikidata.org/wiki/Q621114",
+    "AAT_ID": 300004507,
+    "AAT_preffered_term": "classrooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004507"
+  },
+  {
+    "original_class": "clean room",
+    "wiki_label": "cleanroom",
+    "wiki_id": "Q794827",
+    "wiki_description": "facility designed to maintain extremely low levels of particulates, such as dust, airborne organisms, or vaporized particles",
+    "wiki_link": "https://www.wikidata.org/wiki/Q794827",
+    "AAT_ID": 300004509,
+    "AAT_preffered_term": "clean rooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004509"
+  },
+  {
+    "original_class": "cliff",
+    "wiki_label": "cliff",
+    "wiki_id": "Q107679",
+    "wiki_description": "significant vertical, or near vertical, rock exposure",
+    "wiki_link": "https://www.wikidata.org/wiki/Q107679",
+    "AAT_ID": 300008749,
+    "AAT_preffered_term": "cliffs",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008749"
+  },
+  {
+    "original_class": "closet",
+    "wiki_label": "closet",
+    "wiki_id": "Q1723368",
+    "wiki_description": "A closet is an enclosed space, a cabinet, or a cupboard in a house or building used for general storage or hanging or storing clothes.",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1723368",
+    "AAT_ID": 300004467,
+    "AAT_preffered_term": "closets (storage spaces)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004467"
+  },
+  {
+    "original_class": "clothing store",
+    "wiki_label": "clothing store",
+    "wiki_id": "Q2090555",
+    "wiki_description": "shop that sells clothes",
+    "wiki_link": "https://www.wikidata.org/wiki/Q2090555",
+    "AAT_ID": 300005303,
+    "AAT_preffered_term": "clothing stores",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005303"
+  },
+  {
+    "original_class": "coast",
+    "wiki_label": "coast",
+    "wiki_id": "Q93352",
+    "wiki_description": "area where land meets the sea or ocean",
+    "wiki_link": "https://www.wikidata.org/wiki/Q93352",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "cockpit",
+    "wiki_label": "cockpit",
+    "wiki_id": "Q194156",
+    "wiki_description": "area, usually near the front of an aircraft, from which a pilot controls the aircraft",
+    "wiki_link": "https://www.wikidata.org/wiki/Q194156",
+    "AAT_ID": 300249326,
+    "AAT_preffered_term": "cockpits (recreation spaces)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300249326"
+  },
+  {
+    "original_class": "coffee shop",
+    "wiki_label": "café",
+    "wiki_id": "Q30022",
+    "wiki_description": "establishment serving coffee",
+    "wiki_link": "https://www.wikidata.org/wiki/Q30022",
+    "AAT_ID": 300005187,
+    "AAT_preffered_term": "coffee shops",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005187"
+  },
+  {
+    "original_class": "computer room",
+    "wiki_label": "data center",
+    "wiki_id": "Q671224",
+    "wiki_description": "building or room where computer servers and related equipment are operated",
+    "wiki_link": "https://www.wikidata.org/wiki/Q671224",
+    "AAT_ID": 300004510,
+    "AAT_preffered_term": "computer rooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004510"
+  },
+  {
+    "original_class": "conference center",
+    "wiki_label": "convention center",
+    "wiki_id": "Q1378975",
+    "wiki_description": "building that is designed to hold a convention",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1378975",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "conference room",
+    "wiki_label": "conference hall",
+    "wiki_id": "Q1207465",
+    "wiki_description": "room provided for singular events such as business conferences and meetings",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1207465",
+    "AAT_ID": 300004398,
+    "AAT_preffered_term": "conference rooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004398"
+  },
+  {
+    "original_class": "construction site",
+    "wiki_label": "construction site",
+    "wiki_id": "Q360418",
+    "wiki_description": "place where a building is constructed, reconstructed or demolished",
+    "wiki_link": "https://www.wikidata.org/wiki/Q360418",
+    "AAT_ID": 300312090,
+    "AAT_preffered_term": "construction sites",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300312090"
+  },
+  {
+    "original_class": "corn field",
+    "wiki_label": "field",
+    "wiki_id": "Q188869",
+    "wiki_description": "agricultural field",
+    "wiki_link": "https://www.wikidata.org/wiki/Q188869",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "corral",
+    "wiki_label": "pen",
+    "wiki_id": "Q858177",
+    "wiki_description": "enclosure for holding livestock",
+    "wiki_link": "https://www.wikidata.org/wiki/Q858177",
+    "AAT_ID": 300004983,
+    "AAT_preffered_term": "corrals (animal housing)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004983"
+  },
+  {
+    "original_class": "corridor",
+    "wiki_label": "corridor",
+    "wiki_id": "Q1135449",
+    "wiki_description": "passage affording access to the rooms in a building",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1135449",
+    "AAT_ID": 300004294,
+    "AAT_preffered_term": "corridors",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004294"
+  },
+  {
+    "original_class": "cottage",
+    "wiki_label": "cottage",
+    "wiki_id": "Q5783996",
+    "wiki_description": "typically, a small house",
+    "wiki_link": "https://www.wikidata.org/wiki/Q5783996",
+    "AAT_ID": 300005500,
+    "AAT_preffered_term": "cottages",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005500"
+  },
+  {
+    "original_class": "courthouse",
+    "wiki_label": "courthouse",
+    "wiki_id": "Q1137809",
+    "wiki_description": "building which is home to a court",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1137809",
+    "AAT_ID": 300005969,
+    "AAT_preffered_term": "courthouses",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005969"
+  },
+  {
+    "original_class": "courtyard",
+    "wiki_label": "courtyard",
+    "wiki_id": "Q309250",
+    "wiki_description": "enclosed area, often by a building, that is open to the sky",
+    "wiki_link": "https://www.wikidata.org/wiki/Q309250",
+    "AAT_ID": 300004095,
+    "AAT_preffered_term": "courtyards",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004095"
+  },
+  {
+    "original_class": "creek",
+    "wiki_label": "stream",
+    "wiki_id": "Q47521",
+    "wiki_description": "body of water with a current, confined within a bed and stream banks, bigger than a ditch but smaller than a river",
+    "wiki_link": "https://www.wikidata.org/wiki/Q47521",
+    "AAT_ID": 300008706,
+    "AAT_preffered_term": "creeks (bodies of water)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008706"
+  },
+  {
+    "original_class": "crevasse",
+    "wiki_label": "crevasse",
+    "wiki_id": "Q862193",
+    "wiki_description": "A deep crack, or fracture, found in an ice sheet or glacier",
+    "wiki_link": "https://www.wikidata.org/wiki/Q862193",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "crosswalk",
+    "wiki_label": "pedestrian crossing",
+    "wiki_id": "Q8010",
+    "wiki_description": "Point on a road at which some means are employed to assist pedestrians wishing to cross",
+    "wiki_link": "https://www.wikidata.org/wiki/Q8010",
+    "AAT_ID": 300003838,
+    "AAT_preffered_term": "crosswalks",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300003838"
+  },
+  {
+    "original_class": "dam",
+    "wiki_label": "dam",
+    "wiki_id": "Q12323",
+    "wiki_description": "barrier that impounds water or underground streams",
+    "wiki_link": "https://www.wikidata.org/wiki/Q12323",
+    "AAT_ID": 300006084,
+    "AAT_preffered_term": "dams (hydraulic structures)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300006084"
+  },
+  {
+    "original_class": "delicatessen",
+    "wiki_label": "delicatessen",
+    "wiki_id": "Q3231410",
+    "wiki_description": "shop selling cured meats and sausages, expensive cheeses, caviar, or luxury confectionery",
+    "wiki_link": "https://www.wikidata.org/wiki/Q3231410",
+    "AAT_ID": 300005188,
+    "AAT_preffered_term": "delicatessens",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005188"
+  },
+  {
+    "original_class": "department store",
+    "wiki_label": "department store",
+    "wiki_id": "Q216107",
+    "wiki_description": "Retail establishment; building which offers a wide range of consumer goods",
+    "wiki_link": "https://www.wikidata.org/wiki/Q216107",
+    "AAT_ID": 300005344,
+    "AAT_preffered_term": "department stores",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005344"
+  },
+  {
+    "original_class": "desert",
+    "wiki_label": "desert",
+    "wiki_id": "Q8514",
+    "wiki_description": "barren area of land where little precipitation occurs",
+    "wiki_link": "https://www.wikidata.org/wiki/Q8514",
+    "AAT_ID": 300008916,
+    "AAT_preffered_term": "deserts",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008916"
+  },
+  {
+    "original_class": "desert road",
+    "wiki_label": "desert",
+    "wiki_id": "Q8514",
+    "wiki_description": "barren area of land where little precipitation occurs",
+    "wiki_link": "https://www.wikidata.org/wiki/Q8514",
+    "AAT_ID": 300008916,
+    "AAT_preffered_term": "deserts",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008916"
+  },
+  {
+    "original_class": "diner",
+    "wiki_label": "diner",
+    "wiki_id": "Q1226318",
+    "wiki_description": "prefabricated restaurant building characteristic of American life",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1226318",
+    "AAT_ID": 300005190,
+    "AAT_preffered_term": "diners (restaurants)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005190"
+  },
+  {
+    "original_class": "dining hall",
+    "wiki_label": "dining room",
+    "wiki_id": "Q661199",
+    "wiki_description": "room for consuming food",
+    "wiki_link": "https://www.wikidata.org/wiki/Q661199",
+    "AAT_ID": 300004346,
+    "AAT_preffered_term": "dining halls",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004346"
+  },
+  {
+    "original_class": "dining room",
+    "wiki_label": "dining room",
+    "wiki_id": "Q661199",
+    "wiki_description": "room for consuming food",
+    "wiki_link": "https://www.wikidata.org/wiki/Q661199",
+    "AAT_ID": 300004349,
+    "AAT_preffered_term": "dining rooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004349"
+  },
+  {
+    "original_class": "discotheque",
+    "wiki_label": "discothèque",
+    "wiki_id": "Q1228895",
+    "wiki_description": "building, where dance events take place",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1228895",
+    "AAT_ID": 300007229,
+    "AAT_preffered_term": "discotheques",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007229"
+  },
+  {
+    "original_class": "doorway",
+    "wiki_label": "building",
+    "wiki_id": "Q41176",
+    "wiki_description": "structure, typically with a roof and walls, standing more or less permanently in one place",
+    "wiki_link": "https://www.wikidata.org/wiki/Q41176",
+    "AAT_ID": 300002767,
+    "AAT_preffered_term": "doorways",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300002767"
+  },
+  {
+    "original_class": "dorm room",
+    "wiki_label": "sleeping dormitory",
+    "wiki_id": "Q3037266",
+    "wiki_description": "room with more than one bed",
+    "wiki_link": "https://www.wikidata.org/wiki/Q3037266",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "downtown",
+    "wiki_label": "central business district",
+    "wiki_id": "Q738570",
+    "wiki_description": "commercial and business centre of a city",
+    "wiki_link": "https://www.wikidata.org/wiki/Q738570",
+    "AAT_ID": 300387524,
+    "AAT_preffered_term": "downtowns",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300387524"
+  },
+  {
+    "original_class": "dressing room",
+    "wiki_label": "wardrobe",
+    "wiki_id": "Q10883050",
+    "wiki_description": "closet used for storing clothes",
+    "wiki_link": "https://www.wikidata.org/wiki/Q10883050",
+    "AAT_ID": 300004369,
+    "AAT_preffered_term": "dressing rooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004369"
+  },
+  {
+    "original_class": "driveway",
+    "wiki_label": "driveway",
+    "wiki_id": "Q2251535",
+    "wiki_description": "type of private road for local access to one or a small group of structures",
+    "wiki_link": "https://www.wikidata.org/wiki/Q2251535",
+    "AAT_ID": 300008280,
+    "AAT_preffered_term": "driveways",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008280"
+  },
+  {
+    "original_class": "drugstore",
+    "wiki_label": "drugstore",
+    "wiki_id": "Q1260046",
+    "wiki_description": "retail store centrally featuring a pharmacy",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1260046",
+    "AAT_ID": 300005307,
+    "AAT_preffered_term": "drugstores",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005307"
+  },
+  {
+    "original_class": "elevator",
+    "wiki_label": "elevator",
+    "wiki_id": "Q132911",
+    "wiki_description": "vertical transport device",
+    "wiki_link": "https://www.wikidata.org/wiki/Q132911",
+    "AAT_ID": 300051186,
+    "AAT_preffered_term": "elevators",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300051186"
+  },
+  {
+    "original_class": "elevator lobby",
+    "wiki_label": "elevator",
+    "wiki_id": "Q132911",
+    "wiki_description": "vertical transport device",
+    "wiki_link": "https://www.wikidata.org/wiki/Q132911",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "elevator shaft",
+    "wiki_label": "elevator",
+    "wiki_id": "Q132911",
+    "wiki_description": "vertical transport device",
+    "wiki_link": "https://www.wikidata.org/wiki/Q132911",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "embassy",
+    "wiki_label": "chancery",
+    "wiki_id": "Q2750585",
+    "wiki_description": "embassy/diplomatic building",
+    "wiki_link": "https://www.wikidata.org/wiki/Q2750585",
+    "AAT_ID": 300108008,
+    "AAT_preffered_term": "embassies",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300108008"
+  },
+  {
+    "original_class": "engine room",
+    "wiki_label": "engine room",
+    "wiki_id": "Q1415781",
+    "wiki_description": "propulsion machinery spaces of the vessel",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1415781",
+    "AAT_ID": 300411419,
+    "AAT_preffered_term": "engine rooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300411419"
+  },
+  {
+    "original_class": "entrance hall",
+    "wiki_label": "building",
+    "wiki_id": "Q41176",
+    "wiki_description": "structure, typically with a roof and walls, standing more or less permanently in one place",
+    "wiki_link": "https://www.wikidata.org/wiki/Q41176",
+    "AAT_ID": 300004263,
+    "AAT_preffered_term": "entrance halls",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004263"
+  },
+  {
+    "original_class": "escalator",
+    "wiki_label": "escalator",
+    "wiki_id": "Q15003",
+    "wiki_description": "moving staircase",
+    "wiki_link": "https://www.wikidata.org/wiki/Q15003",
+    "AAT_ID": 300051244,
+    "AAT_preffered_term": "escalators",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300051244"
+  },
+  {
+    "original_class": "excavation",
+    "wiki_label": "archaeological site",
+    "wiki_id": "Q839954",
+    "wiki_description": "place (or group of physical sites) in which evidence of past activity is preserved",
+    "wiki_link": "https://www.wikidata.org/wiki/Q839954",
+    "AAT_ID": 300266151,
+    "AAT_preffered_term": "excavations (sites)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300266151"
+  },
+  {
+    "original_class": "fabric store",
+    "wiki_label": "shop",
+    "wiki_id": "Q213441",
+    "wiki_description": "place where items or services are sold",
+    "wiki_link": "https://www.wikidata.org/wiki/Q213441",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "farm",
+    "wiki_label": "farm",
+    "wiki_id": "Q131596",
+    "wiki_description": "area of land for farming, or, for aquaculture, lake, river or sea, including various structures",
+    "wiki_link": "https://www.wikidata.org/wiki/Q131596",
+    "AAT_ID": 300000206,
+    "AAT_preffered_term": "farms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000206"
+  },
+  {
+    "original_class": "fastfood restaurant",
+    "wiki_label": "fast food restaurant",
+    "wiki_id": "Q1751429",
+    "wiki_description": "type of restaurant",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1751429",
+    "AAT_ID": 300005191,
+    "AAT_preffered_term": "fast food restaurants",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005191"
+  },
+  {
+    "original_class": "field",
+    "wiki_label": "field",
+    "wiki_id": "Q188869",
+    "wiki_description": "agricultural field",
+    "wiki_link": "https://www.wikidata.org/wiki/Q188869",
+    "AAT_ID": 300343519,
+    "AAT_preffered_term": "fields (land)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300343519"
+  },
+  {
+    "original_class": "field road",
+    "wiki_label": "field",
+    "wiki_id": "Q188869",
+    "wiki_description": "agricultural field",
+    "wiki_link": "https://www.wikidata.org/wiki/Q188869",
+    "AAT_ID": 300312172,
+    "AAT_preffered_term": "dirt roads",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "fire escape",
+    "wiki_label": "fire escape",
+    "wiki_id": "Q1430596",
+    "wiki_description": "emergency exit usually mounted to the outside of a building",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1430596",
+    "AAT_ID": 300003262,
+    "AAT_preffered_term": "fire escapes",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300003262"
+  },
+  {
+    "original_class": "fire station",
+    "wiki_label": "fire station",
+    "wiki_id": "Q1195942",
+    "wiki_description": "structure or other area set aside for storage of firefighting apparatus",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1195942",
+    "AAT_ID": 300006044,
+    "AAT_preffered_term": "fire stations",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300006044"
+  },
+  {
+    "original_class": "fishpond",
+    "wiki_label": "fish pond",
+    "wiki_id": "Q1265665",
+    "wiki_description": "body of standing water, man-made and non perennial, used for pisciculture",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1265665",
+    "AAT_ID": 300008689,
+    "AAT_preffered_term": "fishponds",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008689"
+  },
+  {
+    "original_class": "flea market",
+    "wiki_label": "flea market",
+    "wiki_id": "Q385870",
+    "wiki_description": "type of bazaar that rents space to people who want to sell or barter merchandise",
+    "wiki_link": "https://www.wikidata.org/wiki/Q385870",
+    "AAT_ID": 300069116,
+    "AAT_preffered_term": "flea markets",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300069116"
+  },
+  {
+    "original_class": "florist shop",
+    "wiki_label": "shop",
+    "wiki_id": "Q213441",
+    "wiki_description": "place where items or services are sold",
+    "wiki_link": "https://www.wikidata.org/wiki/Q213441",
+    "AAT_ID": 300005314,
+    "AAT_preffered_term": "florist shops",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005314"
+  },
+  {
+    "original_class": "food court",
+    "wiki_label": "food court",
+    "wiki_id": "Q1192284",
+    "wiki_description": "indoor plaza or common area within a facility that provides a common area for self-serve dinner",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1192284",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "football field",
+    "wiki_label": "association football pitch",
+    "wiki_id": "Q8524",
+    "wiki_description": "playing surface for the game of association football",
+    "wiki_link": "https://www.wikidata.org/wiki/Q8524",
+    "AAT_ID": 300000575,
+    "AAT_preffered_term": "football fields",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000575"
+  },
+  {
+    "original_class": "forest",
+    "wiki_label": "forest",
+    "wiki_id": "Q4421",
+    "wiki_description": "dense collection of trees covering a relatively large area",
+    "wiki_link": "https://www.wikidata.org/wiki/Q4421",
+    "AAT_ID": 300387598,
+    "AAT_preffered_term": "forests (plant communities)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300387598"
+  },
+  {
+    "original_class": "forest path",
+    "wiki_label": "forest",
+    "wiki_id": "Q4421",
+    "wiki_description": "dense collection of trees covering a relatively large area",
+    "wiki_link": "https://www.wikidata.org/wiki/Q4421",
+    "AAT_ID": 300132451,
+    "AAT_preffered_term": "woods (plant communities)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300132451"
+  },
+  {
+    "original_class": "forest road",
+    "wiki_label": "forest road",
+    "wiki_id": "Q3444700",
+    "wiki_description": "roads or tracks being used mainly or exclusively for forestry purposes",
+    "wiki_link": "https://www.wikidata.org/wiki/Q3444700",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "formal garden",
+    "wiki_label": "formaler garten",
+    "wiki_id": "Q26878911",
+    "wiki_description": "garden with a clear structure, geometric shapes and in most cases a symmetrical layout",
+    "wiki_link": "https://www.wikidata.org/wiki/Q26878911",
+    "AAT_ID": 300008092,
+    "AAT_preffered_term": "formal gardens",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008092"
+  },
+  {
+    "original_class": "fountain",
+    "wiki_label": "fountain",
+    "wiki_id": "Q483453",
+    "wiki_description": "piece of architecture which ejects water",
+    "wiki_link": "https://www.wikidata.org/wiki/Q483453",
+    "AAT_ID": 300006179,
+    "AAT_preffered_term": "fountains",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300006179"
+  },
+  {
+    "original_class": "galley",
+    "wiki_label": "galley",
+    "wiki_id": "Q188924",
+    "wiki_description": "ship mainly propelled by oars",
+    "wiki_link": "https://www.wikidata.org/wiki/Q188924",
+    "AAT_ID": 300125456,
+    "AAT_preffered_term": "galleys (watercraft)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300125456"
+  },
+  {
+    "original_class": "garage",
+    "wiki_label": "garage",
+    "wiki_id": "Q22733",
+    "wiki_description": "walled, roofed structure for storing a vehicle or vehicles that may be part of or attached to a home (\"attached garage\"), or a separate outbuilding or shed (\"detached garage\")",
+    "wiki_link": "https://www.wikidata.org/wiki/Q22733",
+    "AAT_ID": 300007806,
+    "AAT_preffered_term": "garages",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007806"
+  },
+  {
+    "original_class": "gas station",
+    "wiki_label": "gas station",
+    "wiki_id": "Q205495",
+    "wiki_description": "facility which sells fuel and engine lubricants for motor vehicles",
+    "wiki_link": "https://www.wikidata.org/wiki/Q205495",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "gazebo",
+    "wiki_label": "gazebo",
+    "wiki_id": "Q961082",
+    "wiki_description": "pavilion structure built in a park, garden or public area",
+    "wiki_link": "https://www.wikidata.org/wiki/Q961082",
+    "AAT_ID": 300006798,
+    "AAT_preffered_term": "gazebos",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300006798"
+  },
+  {
+    "original_class": "general store",
+    "wiki_label": "general store",
+    "wiki_id": "Q1244860",
+    "wiki_description": "rural or small town store",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1244860",
+    "AAT_ID": 300005354,
+    "AAT_preffered_term": "general stores",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005354"
+  },
+  {
+    "original_class": "gift shop",
+    "wiki_label": "shop",
+    "wiki_id": "Q213441",
+    "wiki_description": "place where items or services are sold",
+    "wiki_link": "https://www.wikidata.org/wiki/Q213441",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "glacier",
+    "wiki_label": "glacier",
+    "wiki_id": "Q35666",
+    "wiki_description": "large persistent body of ice",
+    "wiki_link": "https://www.wikidata.org/wiki/Q35666",
+    "AAT_ID": 300008835,
+    "AAT_preffered_term": "glaciers (bodies of water)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008835"
+  },
+  {
+    "original_class": "golf course",
+    "wiki_label": "golf course",
+    "wiki_id": "Q1048525",
+    "wiki_description": "series of holes designed for the game of golf",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1048525",
+    "AAT_ID": 300000586,
+    "AAT_preffered_term": "golf courses",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000586"
+  },
+  {
+    "original_class": "greenhouse",
+    "wiki_label": "greenhouse",
+    "wiki_id": "Q165044",
+    "wiki_description": "building in which plants are grown",
+    "wiki_link": "https://www.wikidata.org/wiki/Q165044",
+    "AAT_ID": 300004938,
+    "AAT_preffered_term": "greenhouses",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004938"
+  },
+  {
+    "original_class": "grotto",
+    "wiki_label": "grotto",
+    "wiki_id": "Q1131329",
+    "wiki_description": "any type of natural or artificial cave that is associated with modern, historic, or prehistoric use by humans",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1131329",
+    "AAT_ID": 300006807,
+    "AAT_preffered_term": "grottoes",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300006807"
+  },
+  {
+    "original_class": "gymnasium",
+    "wiki_label": "gymnasium",
+    "wiki_id": "Q14092",
+    "wiki_description": "locality for both physical and intellectual education",
+    "wiki_link": "https://www.wikidata.org/wiki/Q14092",
+    "AAT_ID": 300007297,
+    "AAT_preffered_term": "gymnasiums",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007297"
+  },
+  {
+    "original_class": "hangar",
+    "wiki_label": "hangar",
+    "wiki_id": "Q192375",
+    "wiki_description": "closed structure to hold aircraft or spacecraft in protective storage",
+    "wiki_link": "https://www.wikidata.org/wiki/Q192375",
+    "AAT_ID": 300007768,
+    "AAT_preffered_term": "hangars",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007768"
+  },
+  {
+    "original_class": "harbor",
+    "wiki_label": "harbor",
+    "wiki_id": "Q283202",
+    "wiki_description": "place where ships may shelter",
+    "wiki_link": "https://www.wikidata.org/wiki/Q283202",
+    "AAT_ID": 300008678,
+    "AAT_preffered_term": "harbors",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008678"
+  },
+  {
+    "original_class": "hardware store",
+    "wiki_label": "hardware store",
+    "wiki_id": "Q811530",
+    "wiki_description": "a store that sell household hardware for home improvement",
+    "wiki_link": "https://www.wikidata.org/wiki/Q811530",
+    "AAT_ID": 300005326,
+    "AAT_preffered_term": "hardware stores",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005326"
+  },
+  {
+    "original_class": "hayfield",
+    "wiki_label": "hay field",
+    "wiki_id": "Q2597692",
+    "wiki_description": "field used to harvest hay",
+    "wiki_link": "https://www.wikidata.org/wiki/Q2597692",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "heliport",
+    "wiki_label": "heliport",
+    "wiki_id": "Q502074",
+    "wiki_description": "airport designed for helicopter use",
+    "wiki_link": "https://www.wikidata.org/wiki/Q502074",
+    "AAT_ID": 300000686,
+    "AAT_preffered_term": "heliports (airports)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000686"
+  },
+  {
+    "original_class": "highway",
+    "wiki_label": "highway",
+    "wiki_id": "Q269949",
+    "wiki_description": "public road or other public way on land in some countries",
+    "wiki_link": "https://www.wikidata.org/wiki/Q269949",
+    "AAT_ID": 300008220,
+    "AAT_preffered_term": "highways",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008220"
+  },
+  {
+    "original_class": "home office",
+    "wiki_label": "office",
+    "wiki_id": "Q182060",
+    "wiki_description": "room where people perform their duties or a position within an organization",
+    "wiki_link": "https://www.wikidata.org/wiki/Q182060",
+    "AAT_ID": 300180734,
+    "AAT_preffered_term": "home offices (workspaces)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300180734"
+  },
+  {
+    "original_class": "home theater",
+    "wiki_label": "room",
+    "wiki_id": "Q180516",
+    "wiki_description": "distinguishable space within a building or other structure",
+    "wiki_link": "https://www.wikidata.org/wiki/Q180516",
+    "AAT_ID": 300252454,
+    "AAT_preffered_term": "home theaters",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300252454"
+  },
+  {
+    "original_class": "hospital",
+    "wiki_label": "hospital",
+    "wiki_id": "Q16917",
+    "wiki_description": "health care institution",
+    "wiki_link": "https://www.wikidata.org/wiki/Q16917",
+    "AAT_ID": 300006676,
+    "AAT_preffered_term": "hospitals (buildings for health facility)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300006676"
+  },
+  {
+    "original_class": "hospital room",
+    "wiki_label": "hospital",
+    "wiki_id": "Q180370",
+    "wiki_description": "medical center or nursing home",
+    "wiki_link": "https://www.wikidata.org/wiki/Q180370",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "hotel",
+    "wiki_label": "hotel",
+    "wiki_id": "Q27686",
+    "wiki_description": "establishment that provides lodging paid on a short-term basis",
+    "wiki_link": "https://www.wikidata.org/wiki/Q27686",
+    "AAT_ID": 300131655,
+    "AAT_preffered_term": "hôtels (town houses)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300131655"
+  },
+  {
+    "original_class": "hotel room",
+    "wiki_label": "hotel room",
+    "wiki_id": "Q23541360",
+    "wiki_description": "smallest discrete unit of individually lockable accommodation in a a hotel",
+    "wiki_link": "https://www.wikidata.org/wiki/Q23541360",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "hot spring",
+    "wiki_label": "hot spring",
+    "wiki_id": "Q177380",
+    "wiki_description": "spring produced by the emergence of geothermally heated groundwater",
+    "wiki_link": "https://www.wikidata.org/wiki/Q177380",
+    "AAT_ID": 300312197,
+    "AAT_preffered_term": "hot springs",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300312197"
+  },
+  {
+    "original_class": "house",
+    "wiki_label": "house",
+    "wiki_id": "Q3947",
+    "wiki_description": "structure intended for living in",
+    "wiki_link": "https://www.wikidata.org/wiki/Q3947",
+    "AAT_ID": 300005433,
+    "AAT_preffered_term": "houses",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005433"
+  },
+  {
+    "original_class": "hunting lodge",
+    "wiki_label": "hunting lodge",
+    "wiki_id": "Q1424449",
+    "wiki_description": "schloss set in a wildlife park or a hunting area",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1424449",
+    "AAT_ID": 300007177,
+    "AAT_preffered_term": "hunting lodges",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007177"
+  },
+  {
+    "original_class": "iceberg",
+    "wiki_label": "iceberg",
+    "wiki_id": "Q47568",
+    "wiki_description": "large piece of fresh-water ice floating in the ocean or other body of water",
+    "wiki_link": "https://www.wikidata.org/wiki/Q47568",
+    "AAT_ID": 300132319,
+    "AAT_preffered_term": "icebergs",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300132319"
+  },
+  {
+    "original_class": "ice cream parlor",
+    "wiki_label": "ice cream parlor",
+    "wiki_id": "Q1311064",
+    "wiki_description": "a shop selling ice creams",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1311064",
+    "AAT_ID": 300005194,
+    "AAT_preffered_term": "ice cream parlors",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005194"
+  },
+  {
+    "original_class": "ice floe",
+    "wiki_label": "sea ice",
+    "wiki_id": "Q213926",
+    "wiki_description": "frozen seawater; pack ice",
+    "wiki_link": "https://www.wikidata.org/wiki/Q213926",
+    "AAT_ID": 300391207,
+    "AAT_preffered_term": "ice floes",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300391207"
+  },
+  {
+    "original_class": "ice shelf",
+    "wiki_label": "ice shelf",
+    "wiki_id": "Q46966",
+    "wiki_description": "floating platform of ice on the ocean surface, at outlet of a glacier or ice sheet",
+    "wiki_link": "https://www.wikidata.org/wiki/Q46966",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "ice skating rink",
+    "wiki_label": "ice rink",
+    "wiki_id": "Q1282870",
+    "wiki_description": "frozen body of water and/or hardened chemicals where people can ice skate or play winter sports",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1282870",
+    "AAT_ID": 300007262,
+    "AAT_preffered_term": "ice skating rinks",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007262"
+  },
+  {
+    "original_class": "igloo",
+    "wiki_label": "igloo",
+    "wiki_id": "Q101805",
+    "wiki_description": "type of shelter built of snow",
+    "wiki_link": "https://www.wikidata.org/wiki/Q101805",
+    "AAT_ID": 300005601,
+    "AAT_preffered_term": "igloos",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005601"
+  },
+  {
+    "original_class": "industrial area",
+    "wiki_label": "industrial park",
+    "wiki_id": "Q329683",
+    "wiki_description": "area for development of industry",
+    "wiki_link": "https://www.wikidata.org/wiki/Q329683",
+    "AAT_ID": 300000739,
+    "AAT_preffered_term": "industrial districts",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "inn",
+    "wiki_label": "inn",
+    "wiki_id": "Q256020",
+    "wiki_description": "establishment providing lodging, food and drink",
+    "wiki_link": "https://www.wikidata.org/wiki/Q256020",
+    "AAT_ID": 300007170,
+    "AAT_preffered_term": "inns",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007170"
+  },
+  {
+    "original_class": "islet",
+    "wiki_label": "islet",
+    "wiki_id": "Q207524",
+    "wiki_description": "very small island",
+    "wiki_link": "https://www.wikidata.org/wiki/Q207524",
+    "AAT_ID": 300386852,
+    "AAT_preffered_term": "islets",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300386852"
+  },
+  {
+    "original_class": "jacuzzi",
+    "wiki_label": "hot tub",
+    "wiki_id": "Q1936429",
+    "wiki_description": "large tub or small pool",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1936429",
+    "AAT_ID": 300343457,
+    "AAT_preffered_term": "hot tubs",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300343457"
+  },
+  {
+    "original_class": "jail cell",
+    "wiki_label": "prison cell",
+    "wiki_id": "Q686534",
+    "wiki_description": "small room in a prison or police station where a prisoner is held",
+    "wiki_link": "https://www.wikidata.org/wiki/Q686534",
+    "AAT_ID": 300417303,
+    "AAT_preffered_term": "prison cells",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300417303"
+  },
+  {
+    "original_class": "japanese garden",
+    "wiki_label": "japanese garden",
+    "wiki_id": "Q15835",
+    "wiki_description": "type of traditional garden",
+    "wiki_link": "https://www.wikidata.org/wiki/Q15835",
+    "AAT_ID": 300252129,
+    "AAT_preffered_term": "Japanese gardens",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300252129"
+  },
+  {
+    "original_class": "jewelry shop",
+    "wiki_label": "shop",
+    "wiki_id": "Q213441",
+    "wiki_description": "place where items or services are sold",
+    "wiki_link": "https://www.wikidata.org/wiki/Q213441",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "junkyard",
+    "wiki_label": "landfill",
+    "wiki_id": "Q152810",
+    "wiki_description": "site for the disposal of waste materials by burial",
+    "wiki_link": "https://www.wikidata.org/wiki/Q152810",
+    "AAT_ID": 300000826,
+    "AAT_preffered_term": "junkyards",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000826"
+  },
+  {
+    "original_class": "kasbah",
+    "wiki_label": "kasbah",
+    "wiki_id": "Q89468",
+    "wiki_description": "a type of medina or fortress (citadel)",
+    "wiki_link": "https://www.wikidata.org/wiki/Q89468",
+    "AAT_ID": 300263690,
+    "AAT_preffered_term": "casbahs",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300263690"
+  },
+  {
+    "original_class": "kennel",
+    "wiki_label": "kennel",
+    "wiki_id": "Q2724542",
+    "wiki_description": "a structure or shelter for dogs or cats",
+    "wiki_link": "https://www.wikidata.org/wiki/Q2724542",
+    "AAT_ID": 300004993,
+    "AAT_preffered_term": "kennels (animal housing)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004993"
+  },
+  {
+    "original_class": "kindergarden classroom",
+    "wiki_label": "classroom",
+    "wiki_id": "Q621114",
+    "wiki_description": "room inside school building where lessons are held",
+    "wiki_link": "https://www.wikidata.org/wiki/Q621114",
+    "AAT_ID": 300004507,
+    "AAT_preffered_term": "classrooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004507"
+  },
+  {
+    "original_class": "kitchen",
+    "wiki_label": "kitchen",
+    "wiki_id": "Q43164",
+    "wiki_description": "space primarily used for preparation and storage of food",
+    "wiki_link": "https://www.wikidata.org/wiki/Q43164",
+    "AAT_ID": 300004514,
+    "AAT_preffered_term": "kitchens",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004514"
+  },
+  {
+    "original_class": "lagoon",
+    "wiki_label": "lagoon",
+    "wiki_id": "Q187223",
+    "wiki_description": "shallow body of water separated from larger body of water by a barrier",
+    "wiki_link": "https://www.wikidata.org/wiki/Q187223",
+    "AAT_ID": 300008679,
+    "AAT_preffered_term": "lagoons (bodies of water)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008679"
+  },
+  {
+    "original_class": "lake",
+    "wiki_label": "lake",
+    "wiki_id": "Q23397",
+    "wiki_description": "body of relatively still water, localized in a basin",
+    "wiki_link": "https://www.wikidata.org/wiki/Q23397",
+    "AAT_ID": 300008680,
+    "AAT_preffered_term": "lakes (bodies of water)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008680"
+  },
+  {
+    "original_class": "landfill",
+    "wiki_label": "landfill",
+    "wiki_id": "Q152810",
+    "wiki_description": "site for the disposal of waste materials by burial",
+    "wiki_link": "https://www.wikidata.org/wiki/Q152810",
+    "AAT_ID": 300000830,
+    "AAT_preffered_term": "landfills",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000830"
+  },
+  {
+    "original_class": "landing deck",
+    "wiki_label": "flight deck",
+    "wiki_id": "Q622031",
+    "wiki_description": "landing/take off surface of an aircraft carrier",
+    "wiki_link": "https://www.wikidata.org/wiki/Q622031",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "laundromat",
+    "wiki_label": "lavoir",
+    "wiki_id": "Q1690211",
+    "wiki_description": "public place set aside for the washing of clothes",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1690211",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "lawn",
+    "wiki_label": "lawn",
+    "wiki_id": "Q207766",
+    "wiki_description": "area of land planted with grasses",
+    "wiki_link": "https://www.wikidata.org/wiki/Q207766",
+    "AAT_ID": 300008889,
+    "AAT_preffered_term": "lawns (landscaped grass)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008889"
+  },
+  {
+    "original_class": "lecture room",
+    "wiki_label": "reading room",
+    "wiki_id": "Q1753764",
+    "wiki_description": "space set up in a library or an archive service, intended to allow the public to consult the documents on the spot",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1753764",
+    "AAT_ID": 300004434,
+    "AAT_preffered_term": "reading rooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004434"
+  },
+  {
+    "original_class": "legislative chamber",
+    "wiki_label": "debate chamber",
+    "wiki_id": "Q25036082",
+    "wiki_description": "room for people to discuss and debate",
+    "wiki_link": "https://www.wikidata.org/wiki/Q25036082",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "library",
+    "wiki_label": "library building",
+    "wiki_id": "Q856584",
+    "wiki_description": "building housing a library",
+    "wiki_link": "https://www.wikidata.org/wiki/Q856584",
+    "AAT_ID": 300006824,
+    "AAT_preffered_term": "libraries (buildings)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300006824"
+  },
+  {
+    "original_class": "lighthouse",
+    "wiki_label": "lighthouse",
+    "wiki_id": "Q39715",
+    "wiki_description": "structure designed to emit light to aid navigation",
+    "wiki_link": "https://www.wikidata.org/wiki/Q39715",
+    "AAT_ID": 300007741,
+    "AAT_preffered_term": "lighthouses",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007741"
+  },
+  {
+    "original_class": "living room",
+    "wiki_label": "living room",
+    "wiki_id": "Q475018",
+    "wiki_description": "room in a residential house for relaxing and socializing",
+    "wiki_link": "https://www.wikidata.org/wiki/Q475018",
+    "AAT_ID": 300004435,
+    "AAT_preffered_term": "living rooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004435"
+  },
+  {
+    "original_class": "loading dock",
+    "wiki_label": "loading dock",
+    "wiki_id": "Q1799919",
+    "wiki_description": "area of a building where goods vehicles are loaded and unloaded",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1799919",
+    "AAT_ID": 300004279,
+    "AAT_preffered_term": "loading docks",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004279"
+  },
+  {
+    "original_class": "lobby",
+    "wiki_label": "lobby",
+    "wiki_id": "Q31948",
+    "wiki_description": "room in a building used for entry from the outside",
+    "wiki_link": "https://www.wikidata.org/wiki/Q31948",
+    "AAT_ID": 300004264,
+    "AAT_preffered_term": "lobbies",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004264"
+  },
+  {
+    "original_class": "lock chamber",
+    "wiki_label": "lock gate",
+    "wiki_id": "Q42792757",
+    "wiki_description": "Jump to navigationJump to search\nthe watertight doors which seal off the lock chamber from the upper and lower pounds",
+    "wiki_link": "https://www.wikidata.org/wiki/Q42792757",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "locker room",
+    "wiki_label": "changing room",
+    "wiki_id": "Q1070054",
+    "wiki_description": "room where you can change your clothes",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1070054",
+    "AAT_ID": 300004120,
+    "AAT_preffered_term": "locker rooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004120"
+  },
+  {
+    "original_class": "mansion",
+    "wiki_label": "mansion",
+    "wiki_id": "Q1802963",
+    "wiki_description": "large dwelling house",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1802963",
+    "AAT_ID": 300071272,
+    "AAT_preffered_term": "mansions",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300071272"
+  },
+  {
+    "original_class": "manufactured home",
+    "wiki_label": "manufactured housing",
+    "wiki_id": "Q6753080",
+    "wiki_description": "type of prefabricated housing that is largely assembled in factories and then transported to sites of use",
+    "wiki_link": "https://www.wikidata.org/wiki/Q6753080",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "market",
+    "wiki_label": "market",
+    "wiki_id": "Q132510",
+    "wiki_description": "location where people regularly gather for the purchase and sale of provisions, livestock, and other goods",
+    "wiki_link": "https://www.wikidata.org/wiki/Q132510",
+    "AAT_ID": 300005238,
+    "AAT_preffered_term": "markets (structures)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005238"
+  },
+  {
+    "original_class": "marsh",
+    "wiki_label": "marsh",
+    "wiki_id": "Q30198",
+    "wiki_description": "waterlogged ecosystem",
+    "wiki_link": "https://www.wikidata.org/wiki/Q30198",
+    "AAT_ID": 300008903,
+    "AAT_preffered_term": "marshes",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008903"
+  },
+  {
+    "original_class": "martial arts gym",
+    "wiki_label": "dōjō",
+    "wiki_id": "Q203609",
+    "wiki_description": "Japanese term for formal training hall of any martial arts",
+    "wiki_link": "https://www.wikidata.org/wiki/Q203609",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "mausoleum",
+    "wiki_label": "mausoleum",
+    "wiki_id": "Q162875",
+    "wiki_description": "monument enclosing the interment space or burial chamber of a deceased person or people",
+    "wiki_link": "https://www.wikidata.org/wiki/Q162875",
+    "AAT_ID": 300005891,
+    "AAT_preffered_term": "mausoleums",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005891"
+  },
+  {
+    "original_class": "medina",
+    "wiki_label": "medina quarter",
+    "wiki_id": "Q1128906",
+    "wiki_description": "distinct city section found in many North African cities",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1128906",
+    "AAT_ID": 300000751,
+    "AAT_preffered_term": "medinas",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000751"
+  },
+  {
+    "original_class": "mezzanine",
+    "wiki_label": "mezzanine",
+    "wiki_id": "Q958148",
+    "wiki_description": "intermediate floor between main floors of a building",
+    "wiki_link": "https://www.wikidata.org/wiki/Q958148",
+    "AAT_ID": 300002674,
+    "AAT_preffered_term": "mezzanines",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300002674"
+  },
+  {
+    "original_class": "moat",
+    "wiki_label": "moat",
+    "wiki_id": "Q88480",
+    "wiki_description": "dry or watery ditch surrounding a fortification or town",
+    "wiki_link": "https://www.wikidata.org/wiki/Q88480",
+    "AAT_ID": 300003716,
+    "AAT_preffered_term": "moats",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300003716"
+  },
+  {
+    "original_class": "mosque",
+    "wiki_label": "mosque",
+    "wiki_id": "Q32815",
+    "wiki_description": "place of worship for followers of Islam",
+    "wiki_link": "https://www.wikidata.org/wiki/Q32815",
+    "AAT_ID": 300007544,
+    "AAT_preffered_term": "mosques (buildings)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007544"
+  },
+  {
+    "original_class": "motel",
+    "wiki_label": "motel",
+    "wiki_id": "Q216212",
+    "wiki_description": "A motor hotel in which all rooms face directly onto a car park. In some countries, any low-cost (1 star) hotel; in others, a \"no-tell motel\" associated with adultery.",
+    "wiki_link": "https://www.wikidata.org/wiki/Q216212",
+    "AAT_ID": 300170888,
+    "AAT_preffered_term": "motels",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300170888"
+  },
+  {
+    "original_class": "mountain",
+    "wiki_label": "mountain",
+    "wiki_id": "Q8502",
+    "wiki_description": "large landform that stretches above the surrounding land",
+    "wiki_link": "https://www.wikidata.org/wiki/Q8502",
+    "AAT_ID": 300008795,
+    "AAT_preffered_term": "mountains",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008795"
+  },
+  {
+    "original_class": "mountain path",
+    "wiki_label": "mountain",
+    "wiki_id": "Q8502",
+    "wiki_description": "large landform that stretches above the surrounding land",
+    "wiki_link": "https://www.wikidata.org/wiki/Q8502",
+    "AAT_ID": 300008795,
+    "AAT_preffered_term": "mountains",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008795"
+  },
+  {
+    "original_class": "mountain snowy",
+    "wiki_label": "mountain",
+    "wiki_id": "Q8502",
+    "wiki_description": "large landform that stretches above the surrounding land",
+    "wiki_link": "https://www.wikidata.org/wiki/Q8502",
+    "AAT_ID": 300008795,
+    "AAT_preffered_term": "mountains",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008795"
+  },
+  {
+    "original_class": "movie theater",
+    "wiki_label": "movie theater",
+    "wiki_id": "Q41253",
+    "wiki_description": "venue, usually a building, for viewing films",
+    "wiki_link": "https://www.wikidata.org/wiki/Q41253",
+    "AAT_ID": 300007135,
+    "AAT_preffered_term": "motion picture theaters",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007135"
+  },
+  {
+    "original_class": "museum",
+    "wiki_label": "museum building",
+    "wiki_id": "Q24699794",
+    "wiki_description": "building that holds artifacts and other objects of scientific, artistic, cultural, historical, or other importance",
+    "wiki_link": "https://www.wikidata.org/wiki/Q24699794",
+    "AAT_ID": 300005768,
+    "AAT_preffered_term": "museums (buildings)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005768"
+  },
+  {
+    "original_class": "music studio",
+    "wiki_label": "studio",
+    "wiki_id": "Q746628",
+    "wiki_description": "artist’s or photographer’s workshop",
+    "wiki_link": "https://www.wikidata.org/wiki/Q746628",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "natural history museum",
+    "wiki_label": "natural history museum",
+    "wiki_id": "Q1970365",
+    "wiki_description": "institution that displays exhibits of natural historical significance",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1970365",
+    "AAT_ID": 300312323,
+    "AAT_preffered_term": "natural history museums (buildings)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300312323"
+  },
+  {
+    "original_class": "nursery",
+    "wiki_label": "nursery",
+    "wiki_id": "Q1741939",
+    "wiki_description": "room for infants or small children",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1741939",
+    "AAT_ID": 300004380,
+    "AAT_preffered_term": "nurseries (rooms)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004380"
+  },
+  {
+    "original_class": "nursing home",
+    "wiki_label": "nursing home",
+    "wiki_id": "Q837142",
+    "wiki_description": "type of residential care",
+    "wiki_link": "https://www.wikidata.org/wiki/Q837142",
+    "AAT_ID": 300006709,
+    "AAT_preffered_term": "nursing homes",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300006709"
+  },
+  {
+    "original_class": "oast house",
+    "wiki_label": "oast house",
+    "wiki_id": "Q1166574",
+    "wiki_description": "building designed for kilning (drying) hops as part of the brewing process",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1166574",
+    "AAT_ID": 300263280,
+    "AAT_preffered_term": "oasthouses",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300263280"
+  },
+  {
+    "original_class": "ocean",
+    "wiki_label": "ocean",
+    "wiki_id": "Q9430",
+    "wiki_description": "large body of saline water",
+    "wiki_link": "https://www.wikidata.org/wiki/Q9430",
+    "AAT_ID": 300008687,
+    "AAT_preffered_term": "oceans",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008687"
+  },
+  {
+    "original_class": "office",
+    "wiki_label": "office",
+    "wiki_id": "Q182060",
+    "wiki_description": "room where people perform their duties or a position within an organization",
+    "wiki_link": "https://www.wikidata.org/wiki/Q182060",
+    "AAT_ID": 300004521,
+    "AAT_preffered_term": "offices (work spaces)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004521"
+  },
+  {
+    "original_class": "office building",
+    "wiki_label": "office building",
+    "wiki_id": "Q1021645",
+    "wiki_description": "building which contains spaces mainly designed to be used for offices",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1021645",
+    "AAT_ID": 300007043,
+    "AAT_preffered_term": "office buildings",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007043"
+  },
+  {
+    "original_class": "office cubicles",
+    "wiki_label": "cubicle",
+    "wiki_id": "Q1549531",
+    "wiki_description": "partially enclosed office workspace that is separated from neighboring workspaces by partitions",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1549531",
+    "AAT_ID": 300299165,
+    "AAT_preffered_term": "entry cubicles",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300299165"
+  },
+  {
+    "original_class": "oilrig",
+    "wiki_label": "oil platform",
+    "wiki_id": "Q689880",
+    "wiki_description": "large offshore structure with oil drilling and related facilities",
+    "wiki_link": "https://www.wikidata.org/wiki/Q689880",
+    "AAT_ID": 300006426,
+    "AAT_preffered_term": "oil rigs",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300006426"
+  },
+  {
+    "original_class": "operating room",
+    "wiki_label": "operating theater",
+    "wiki_id": "Q1060822",
+    "wiki_description": "facility within a hospital where surgical operations are carried out",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1060822",
+    "AAT_ID": 300004557,
+    "AAT_preffered_term": "operating rooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004557"
+  },
+  {
+    "original_class": "orchard",
+    "wiki_label": "orchard",
+    "wiki_id": "Q236371",
+    "wiki_description": "intentional planting of trees or shrubs that is maintained for food production",
+    "wiki_link": "https://www.wikidata.org/wiki/Q236371",
+    "AAT_ID": 300008890,
+    "AAT_preffered_term": "orchards",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008890"
+  },
+  {
+    "original_class": "orchestra pit",
+    "wiki_label": "event venue",
+    "wiki_id": "Q18674739",
+    "wiki_description": "building suitable for hosting events",
+    "wiki_link": "https://www.wikidata.org/wiki/Q18674739",
+    "AAT_ID": 300100113,
+    "AAT_preffered_term": "orchestra pits",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300100113"
+  },
+  {
+    "original_class": "pagoda",
+    "wiki_label": "pagoda",
+    "wiki_id": "Q199451",
+    "wiki_description": "tiered tower built in an East Asian style",
+    "wiki_link": "https://www.wikidata.org/wiki/Q199451",
+    "AAT_ID": 300004829,
+    "AAT_preffered_term": "pagodas (buildings)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004829"
+  },
+  {
+    "original_class": "palace",
+    "wiki_label": "palace",
+    "wiki_id": "Q16560",
+    "wiki_description": "grand residence, especially a royal residence or the home of a head of state",
+    "wiki_link": "https://www.wikidata.org/wiki/Q16560",
+    "AAT_ID": 300005734,
+    "AAT_preffered_term": "palaces",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005734"
+  },
+  {
+    "original_class": "pantry",
+    "wiki_label": "pantry",
+    "wiki_id": "Q258313",
+    "wiki_description": "room where beverages, food, and sometimes dishes, household cleaning chemicals, linens, or provisions are stored",
+    "wiki_link": "https://www.wikidata.org/wiki/Q258313",
+    "AAT_ID": 300004499,
+    "AAT_preffered_term": "pantries",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004499"
+  },
+  {
+    "original_class": "park",
+    "wiki_label": "park",
+    "wiki_id": "Q22698",
+    "wiki_description": "area of open space used for recreation or conservation",
+    "wiki_link": "https://www.wikidata.org/wiki/Q22698",
+    "AAT_ID": 300008187,
+    "AAT_preffered_term": "parks (recreation areas)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008187"
+  },
+  {
+    "original_class": "parking garage",
+    "wiki_label": "multi-storey car park",
+    "wiki_id": "Q13218805",
+    "wiki_description": "a building designed for car parking and where there are a number of floors or levels on which parking takes place",
+    "wiki_link": "https://www.wikidata.org/wiki/Q13218805",
+    "AAT_ID": 300007807,
+    "AAT_preffered_term": "parking garages",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007807"
+  },
+  {
+    "original_class": "parking lot",
+    "wiki_label": "parking lot",
+    "wiki_id": "Q6501349",
+    "wiki_description": "cleared area that is intended for parking vehicles",
+    "wiki_link": "https://www.wikidata.org/wiki/Q6501349",
+    "AAT_ID": 300007826,
+    "AAT_preffered_term": "parking lots",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007826"
+  },
+  {
+    "original_class": "pasture",
+    "wiki_label": "pasture",
+    "wiki_id": "Q30121",
+    "wiki_description": "land used for grazing",
+    "wiki_link": "https://www.wikidata.org/wiki/Q30121",
+    "AAT_ID": 300008635,
+    "AAT_preffered_term": "pastures",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008635"
+  },
+  {
+    "original_class": "patio",
+    "wiki_label": "patio",
+    "wiki_id": "Q737988",
+    "wiki_description": "an outdoor space generally used for dining or recreation",
+    "wiki_link": "https://www.wikidata.org/wiki/Q737988",
+    "AAT_ID": 300004108,
+    "AAT_preffered_term": "patios (recreation areas)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004108"
+  },
+  {
+    "original_class": "pavilion",
+    "wiki_label": "pavilion",
+    "wiki_id": "Q276173",
+    "wiki_description": "type of building",
+    "wiki_link": "https://www.wikidata.org/wiki/Q276173",
+    "AAT_ID": 300002660,
+    "AAT_preffered_term": "pavilions (building divisions)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300002660"
+  },
+  {
+    "original_class": "pet shop",
+    "wiki_label": "pet store",
+    "wiki_id": "Q220142",
+    "wiki_description": "establishment that sells pets, pet food, or related equipment",
+    "wiki_link": "https://www.wikidata.org/wiki/Q220142",
+    "AAT_ID": 300164139,
+    "AAT_preffered_term": "pet shops",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300164139"
+  },
+  {
+    "original_class": "pharmacy",
+    "wiki_label": "pharmacy",
+    "wiki_id": "Q13107184",
+    "wiki_description": "facility where medicines are sold",
+    "wiki_link": "https://www.wikidata.org/wiki/Q13107184",
+    "AAT_ID": 300054520,
+    "AAT_preffered_term": "pharmacy",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300054520"
+  },
+  {
+    "original_class": "phone booth",
+    "wiki_label": "telephone booth",
+    "wiki_id": "Q1143785",
+    "wiki_description": "small structure furnished with a payphone",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1143785",
+    "AAT_ID": 300005422,
+    "AAT_preffered_term": "telephone booths",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005422"
+  },
+  {
+    "original_class": "physics laboratory",
+    "wiki_label": "physics laboratory",
+    "wiki_id": "Q1814169",
+    "wiki_description": "laboratory where physics experiments are performed",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1814169",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "picnic area",
+    "wiki_label": "park",
+    "wiki_id": "Q22698",
+    "wiki_description": "area of open space used for recreation or conservation",
+    "wiki_link": "https://www.wikidata.org/wiki/Q22698",
+    "AAT_ID": 300008173,
+    "AAT_preffered_term": "picnic areas",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008173"
+  },
+  {
+    "original_class": "pier",
+    "wiki_label": "pier",
+    "wiki_id": "Q863454",
+    "wiki_description": "raised structure in a body of water, typically supported by well-spaced piles or pillars",
+    "wiki_link": "https://www.wikidata.org/wiki/Q863454",
+    "AAT_ID": 300120779,
+    "AAT_preffered_term": "piers (marine landings)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300120779"
+  },
+  {
+    "original_class": "pizzeria",
+    "wiki_label": "pizzeria",
+    "wiki_id": "Q1501212",
+    "wiki_description": "restaurant that sells pizza",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1501212",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "playground",
+    "wiki_label": "playground",
+    "wiki_id": "Q13607440",
+    "wiki_description": "place with a specific design for children to be able to play there",
+    "wiki_link": "https://www.wikidata.org/wiki/Q13607440",
+    "AAT_ID": 300008203,
+    "AAT_preffered_term": "playgrounds",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008203"
+  },
+  {
+    "original_class": "playroom",
+    "wiki_label": "room",
+    "wiki_id": "Q180516",
+    "wiki_description": "distinguishable space within a building or other structure",
+    "wiki_link": "https://www.wikidata.org/wiki/Q180516",
+    "AAT_ID": 300004457,
+    "AAT_preffered_term": "playrooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004457"
+  },
+  {
+    "original_class": "plaza",
+    "wiki_label": "square",
+    "wiki_id": "Q174782",
+    "wiki_description": "open public space",
+    "wiki_link": "https://www.wikidata.org/wiki/Q174782",
+    "AAT_ID": 300387394,
+    "AAT_preffered_term": "plazas (squares)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300387394"
+  },
+  {
+    "original_class": "pond",
+    "wiki_label": "pond",
+    "wiki_id": "Q3253281",
+    "wiki_description": "body of standing water, either natural or man-made, that is usually smaller than a lake",
+    "wiki_link": "https://www.wikidata.org/wiki/Q3253281",
+    "AAT_ID": 300008688,
+    "AAT_preffered_term": "ponds (water)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008688"
+  },
+  {
+    "original_class": "porch",
+    "wiki_label": "porch",
+    "wiki_id": "Q816741",
+    "wiki_description": "a room or gallery at the front entrance of a building forming a low front",
+    "wiki_link": "https://www.wikidata.org/wiki/Q816741",
+    "AAT_ID": 300004132,
+    "AAT_preffered_term": "porches",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004132"
+  },
+  {
+    "original_class": "promenade",
+    "wiki_label": "promenade",
+    "wiki_id": "Q787113",
+    "wiki_description": "type of road particularly suited for walking",
+    "wiki_link": "https://www.wikidata.org/wiki/Q787113",
+    "AAT_ID": 300008329,
+    "AAT_preffered_term": "promenades (walkways)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008329"
+  },
+  {
+    "original_class": "pub",
+    "wiki_label": "pub",
+    "wiki_id": "Q212198",
+    "wiki_description": "drinking establishment",
+    "wiki_link": "https://www.wikidata.org/wiki/Q212198",
+    "AAT_ID": 300005166,
+    "AAT_preffered_term": "pubs",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005166"
+  },
+  {
+    "original_class": "racecourse",
+    "wiki_label": "race track",
+    "wiki_id": "Q1777138",
+    "wiki_description": "facility built for racing of animals, vehicles, or athletes",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1777138",
+    "AAT_ID": 300000593,
+    "AAT_preffered_term": "racetracks (complexes)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000593"
+  },
+  {
+    "original_class": "raceway",
+    "wiki_label": "raceway",
+    "wiki_id": "Q7279041",
+    "wiki_description": "artificial channel used in aquaculture",
+    "wiki_link": "https://www.wikidata.org/wiki/Q7279041",
+    "AAT_ID": 300050374,
+    "AAT_preffered_term": "raceways",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300050374"
+  },
+  {
+    "original_class": "raft",
+    "wiki_label": "raft",
+    "wiki_id": "Q200433",
+    "wiki_description": "flat structure for support or transportation over water",
+    "wiki_link": "https://www.wikidata.org/wiki/Q200433",
+    "AAT_ID": 300212835,
+    "AAT_preffered_term": "rafts",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300212835"
+  },
+  {
+    "original_class": "railroad track",
+    "wiki_label": "track",
+    "wiki_id": "Q160342",
+    "wiki_description": "rail infrastructure",
+    "wiki_link": "https://www.wikidata.org/wiki/Q160342",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "rainforest",
+    "wiki_label": "rainforest",
+    "wiki_id": "Q9444",
+    "wiki_description": "type of forest with high rainfall",
+    "wiki_link": "https://www.wikidata.org/wiki/Q9444",
+    "AAT_ID": 300008871,
+    "AAT_preffered_term": "rainforests",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008871"
+  },
+  {
+    "original_class": "reception",
+    "wiki_label": "cocktail party",
+    "wiki_id": "Q1105365",
+    "wiki_description": "party at which cocktails are served",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1105365",
+    "AAT_ID": 300069622,
+    "AAT_preffered_term": "receptions",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300069622"
+  },
+  {
+    "original_class": "recreation room",
+    "wiki_label": "recreation room",
+    "wiki_id": "Q2911974",
+    "wiki_description": "room used for a variety of purposes, such as parties, games and other everyday or casual use",
+    "wiki_link": "https://www.wikidata.org/wiki/Q2911974",
+    "AAT_ID": 300004451,
+    "AAT_preffered_term": "recreation rooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004451"
+  },
+  {
+    "original_class": "repair shop",
+    "wiki_label": "workshop",
+    "wiki_id": "Q656720",
+    "wiki_description": "room or building, with tools, used to repair or make goods",
+    "wiki_link": "https://www.wikidata.org/wiki/Q656720",
+    "AAT_ID": 300006410,
+    "AAT_preffered_term": "repair shops",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300006410"
+  },
+  {
+    "original_class": "residential neighborhood",
+    "wiki_label": "living street",
+    "wiki_id": "Q1628979",
+    "wiki_description": "A living street is mainly designed as a social space for pedestrians and cyclists. Motorized transport is permitted, but limited by the character and layout of the living street",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1628979",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "restaurant",
+    "wiki_label": "restaurant",
+    "wiki_id": "Q11707",
+    "wiki_description": "single establishment which prepares and serves food",
+    "wiki_link": "https://www.wikidata.org/wiki/Q11707",
+    "AAT_ID": 300005182,
+    "AAT_preffered_term": "restaurants",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005182"
+  },
+  {
+    "original_class": "restaurant kitchen",
+    "wiki_label": "kitchen",
+    "wiki_id": "Q43164",
+    "wiki_description": "space primarily used for preparation and storage of food",
+    "wiki_link": "https://www.wikidata.org/wiki/Q43164",
+    "AAT_ID": 300004514,
+    "AAT_preffered_term": "kitchens",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004514"
+  },
+  {
+    "original_class": "restaurant patio",
+    "wiki_label": "restaurant",
+    "wiki_id": "Q11707",
+    "wiki_description": "single establishment which prepares and serves food",
+    "wiki_link": "https://www.wikidata.org/wiki/Q11707",
+    "AAT_ID": 300005182,
+    "AAT_preffered_term": "restaurants",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005182"
+  },
+  {
+    "original_class": "rice paddy",
+    "wiki_label": "paddy field",
+    "wiki_id": "Q842623",
+    "wiki_description": "flooded parcel of arable land used for growing semiaquatic rice",
+    "wiki_link": "https://www.wikidata.org/wiki/Q842623",
+    "AAT_ID": 300403982,
+    "AAT_preffered_term": "rice paddies",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300403982"
+  },
+  {
+    "original_class": "river",
+    "wiki_label": "river",
+    "wiki_id": "Q4022",
+    "wiki_description": "natural watercourse",
+    "wiki_link": "https://www.wikidata.org/wiki/Q4022",
+    "AAT_ID": 300008707,
+    "AAT_preffered_term": "rivers",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008707"
+  },
+  {
+    "original_class": "rock arch",
+    "wiki_label": "natural arch",
+    "wiki_id": "Q954501",
+    "wiki_description": "natural rock formation where a rock arch forms",
+    "wiki_link": "https://www.wikidata.org/wiki/Q954501",
+    "AAT_ID": 300386837,
+    "AAT_preffered_term": "natural arches",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300386837"
+  },
+  {
+    "original_class": "roof garden",
+    "wiki_label": "roof garden",
+    "wiki_id": "Q1156696",
+    "wiki_description": "garden on the roof of a building",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1156696",
+    "AAT_ID": 300008131,
+    "AAT_preffered_term": "roof gardens",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008131"
+  },
+  {
+    "original_class": "rope bridge",
+    "wiki_label": "rope bridge",
+    "wiki_id": "Q157942",
+    "wiki_description": "a primitive type of bridge that is supported entirely from anchors at either end and has no towers or piers",
+    "wiki_link": "https://www.wikidata.org/wiki/Q157942",
+    "AAT_ID": 300007868,
+    "AAT_preffered_term": "suspension bridges",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007868"
+  },
+  {
+    "original_class": "ruin",
+    "wiki_label": "ruins",
+    "wiki_id": "Q109607",
+    "wiki_description": "remains of human-made architecture",
+    "wiki_link": "https://www.wikidata.org/wiki/Q109607",
+    "AAT_ID": 300008057,
+    "AAT_preffered_term": "ruins",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008057"
+  },
+  {
+    "original_class": "runway",
+    "wiki_label": "runway",
+    "wiki_id": "Q184590",
+    "wiki_description": "area of surface used by aircraft to takeoff from and land on",
+    "wiki_link": "https://www.wikidata.org/wiki/Q184590",
+    "AAT_ID": 300007918,
+    "AAT_preffered_term": "runways (airport runways)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007918"
+  },
+  {
+    "original_class": "sandbox",
+    "wiki_label": "sandpit",
+    "wiki_id": "Q213454",
+    "wiki_description": "playing area for children",
+    "wiki_link": "https://www.wikidata.org/wiki/Q213454",
+    "AAT_ID": 300211225,
+    "AAT_preffered_term": "sandboxes (playground equipment)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300211225"
+  },
+  {
+    "original_class": "sauna",
+    "wiki_label": "sauna",
+    "wiki_id": "Q57036",
+    "wiki_description": "small room or building designed as a place to experience dry or wet heat sessions",
+    "wiki_link": "https://www.wikidata.org/wiki/Q57036",
+    "AAT_ID": 300004235,
+    "AAT_preffered_term": "saunas (spaces)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004235"
+  },
+  {
+    "original_class": "schoolhouse",
+    "wiki_label": "school building",
+    "wiki_id": "Q1244442",
+    "wiki_description": "building which is or was home to a school",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1244442",
+    "AAT_ID": 300266732,
+    "AAT_preffered_term": "schoolhouses",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300266732"
+  },
+  {
+    "original_class": "science museum",
+    "wiki_label": "science museum",
+    "wiki_id": "Q588140",
+    "wiki_description": "museum devoted primarily to science",
+    "wiki_link": "https://www.wikidata.org/wiki/Q588140",
+    "AAT_ID": 300312326,
+    "AAT_preffered_term": "science museums (buildings)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300312326"
+  },
+  {
+    "original_class": "server room",
+    "wiki_label": "server room",
+    "wiki_id": "Q1973185",
+    "wiki_description": "Room dedicated to the operation of computer servers",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1973185",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "shed",
+    "wiki_label": "shed",
+    "wiki_id": "Q721931",
+    "wiki_description": "single-storey structure in a back garden or on an allotment that is used for storage",
+    "wiki_link": "https://www.wikidata.org/wiki/Q721931",
+    "AAT_ID": 300006411,
+    "AAT_preffered_term": "sheds (storage structures)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300006411"
+  },
+  {
+    "original_class": "shoe shop",
+    "wiki_label": "shop",
+    "wiki_id": "Q213441",
+    "wiki_description": "place where items or services are sold",
+    "wiki_link": "https://www.wikidata.org/wiki/Q213441",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "shopfront",
+    "wiki_label": "shop",
+    "wiki_id": "Q213441",
+    "wiki_description": "place where items or services are sold",
+    "wiki_link": "https://www.wikidata.org/wiki/Q213441",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "shopping mall",
+    "wiki_label": "shopping mall",
+    "wiki_id": "Q11315",
+    "wiki_description": "complex of shops",
+    "wiki_link": "https://www.wikidata.org/wiki/Q11315",
+    "AAT_ID": 300005270,
+    "AAT_preffered_term": "shopping malls",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005270"
+  },
+  {
+    "original_class": "shower",
+    "wiki_label": "shower",
+    "wiki_id": "Q7863",
+    "wiki_description": "place in which a person bathes under a spray of water",
+    "wiki_link": "https://www.wikidata.org/wiki/Q7863",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "ski resort",
+    "wiki_label": "ski resort",
+    "wiki_id": "Q130003",
+    "wiki_description": "resort developed for skiing, snowboarding, and other winter sports",
+    "wiki_link": "https://www.wikidata.org/wiki/Q130003",
+    "AAT_ID": 300235959,
+    "AAT_preffered_term": "ski resorts",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300235959"
+  },
+  {
+    "original_class": "ski slope",
+    "wiki_label": "piste",
+    "wiki_id": "Q1281105",
+    "wiki_description": "path down a mountain for snow skiing, snowboarding, or other mountain sports",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1281105",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "sky",
+    "wiki_label": "natural landscape",
+    "wiki_id": "Q1286517",
+    "wiki_description": "landscape that is unaffected by human activity",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1286517",
+    "AAT_ID": 300263064,
+    "AAT_preffered_term": "sky",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300263064"
+  },
+  {
+    "original_class": "skyscraper",
+    "wiki_label": "skyscraper",
+    "wiki_id": "Q11303",
+    "wiki_description": "tall building",
+    "wiki_link": "https://www.wikidata.org/wiki/Q11303",
+    "AAT_ID": 300004809,
+    "AAT_preffered_term": "skyscrapers",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004809"
+  },
+  {
+    "original_class": "slum",
+    "wiki_label": "slum",
+    "wiki_id": "Q201759",
+    "wiki_description": "heavily populated urban settlement characterized by squalor",
+    "wiki_link": "https://www.wikidata.org/wiki/Q201759",
+    "AAT_ID": 300000753,
+    "AAT_preffered_term": "slums",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000753"
+  },
+  {
+    "original_class": "snowfield",
+    "wiki_label": "snow field",
+    "wiki_id": "Q1365419",
+    "wiki_description": "an accumulation of permanent snow and ice",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1365419",
+    "AAT_ID": 300266569,
+    "AAT_preffered_term": "snowfields",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300266569"
+  },
+  {
+    "original_class": "soccer field",
+    "wiki_label": "football ground",
+    "wiki_id": "Q39463060",
+    "wiki_description": "playing surface for the game of association football",
+    "wiki_link": "https://www.wikidata.org/wiki/Q39463060",
+    "AAT_ID": 300000582,
+    "AAT_preffered_term": "soccer fields",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000582"
+  },
+  {
+    "original_class": "stable",
+    "wiki_label": "stable",
+    "wiki_id": "Q214252",
+    "wiki_description": "building for horses and other livestock",
+    "wiki_link": "https://www.wikidata.org/wiki/Q214252",
+    "AAT_ID": 300005015,
+    "AAT_preffered_term": "stables (animal housing)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005015"
+  },
+  {
+    "original_class": "stadium",
+    "wiki_label": "stadium",
+    "wiki_id": "Q483110",
+    "wiki_description": "place or venue for (mostly) outdoor sports, concerts, or other events",
+    "wiki_link": "https://www.wikidata.org/wiki/Q483110",
+    "AAT_ID": 300007271,
+    "AAT_preffered_term": "stadiums",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007271"
+  },
+  {
+    "original_class": "stage",
+    "wiki_label": "stage",
+    "wiki_id": "Q194428",
+    "wiki_description": "designated space for the performance of productions",
+    "wiki_link": "https://www.wikidata.org/wiki/Q194428",
+    "AAT_ID": 300004751,
+    "AAT_preffered_term": "stages (performance spaces)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004751"
+  },
+  {
+    "original_class": "staircase",
+    "wiki_label": "stairs",
+    "wiki_id": "Q12511",
+    "wiki_description": "construction designed to bridge a large vertical distance by dividing it into smaller vertical distances",
+    "wiki_link": "https://www.wikidata.org/wiki/Q12511",
+    "AAT_ID": 300003228,
+    "AAT_preffered_term": "stairs",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300003228"
+  },
+  {
+    "original_class": "storage room",
+    "wiki_label": "storage room",
+    "wiki_id": "Q15710020",
+    "wiki_description": "rooms or areas in a structure that are allocated for storage",
+    "wiki_link": "https://www.wikidata.org/wiki/Q15710020",
+    "AAT_ID": 300004465,
+    "AAT_preffered_term": "storage spaces",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004465"
+  },
+  {
+    "original_class": "street",
+    "wiki_label": "street",
+    "wiki_id": "Q79007",
+    "wiki_description": "public thoroughfare in a built environment",
+    "wiki_link": "https://www.wikidata.org/wiki/Q79007",
+    "AAT_ID": 300008247,
+    "AAT_preffered_term": "streets",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008247"
+  },
+  {
+    "original_class": "subway station",
+    "wiki_label": "metro station",
+    "wiki_id": "Q928830",
+    "wiki_description": "railway station of a rapid transit system",
+    "wiki_link": "https://www.wikidata.org/wiki/Q928830",
+    "AAT_ID": 300007780,
+    "AAT_preffered_term": "subway stations",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007780"
+  },
+  {
+    "original_class": "supermarket",
+    "wiki_label": "supermarket",
+    "wiki_id": "Q180846",
+    "wiki_description": "large form of the traditional grocery store",
+    "wiki_link": "https://www.wikidata.org/wiki/Q180846",
+    "AAT_ID": 300005246,
+    "AAT_preffered_term": "supermarkets",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005246"
+  },
+  {
+    "original_class": "sushi bar",
+    "wiki_label": "restaurant",
+    "wiki_id": "Q11707",
+    "wiki_description": "single establishment which prepares and serves food",
+    "wiki_link": "https://www.wikidata.org/wiki/Q11707",
+    "AAT_ID": 300005182,
+    "AAT_preffered_term": "restaurants",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005182"
+  },
+  {
+    "original_class": "swamp",
+    "wiki_label": "swamp",
+    "wiki_id": "Q166735",
+    "wiki_description": "wetland with trees",
+    "wiki_link": "https://www.wikidata.org/wiki/Q166735",
+    "AAT_ID": 300008905,
+    "AAT_preffered_term": "swamps",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008905"
+  },
+  {
+    "original_class": "swimming hole",
+    "wiki_label": "swimming hole",
+    "wiki_id": "Q7658373",
+    "wiki_description": "place in a natural body of water large enough and deep enough for a person to swim in",
+    "wiki_link": "https://www.wikidata.org/wiki/Q7658373",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "swimming pool",
+    "wiki_label": "swimming pool",
+    "wiki_id": "Q1501",
+    "wiki_description": "artificial container filled with water intended for swimming",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1501",
+    "AAT_ID": 300007376,
+    "AAT_preffered_term": "swimming pools",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007376"
+  },
+  {
+    "original_class": "synagogue",
+    "wiki_label": "synagogue",
+    "wiki_id": "Q34627",
+    "wiki_description": "Jewish or Samaritan house of prayer",
+    "wiki_link": "https://www.wikidata.org/wiki/Q34627",
+    "AAT_ID": 300007590,
+    "AAT_preffered_term": "synagogues (buildings)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007590"
+  },
+  {
+    "original_class": "television room",
+    "wiki_label": "living room",
+    "wiki_id": "Q475018",
+    "wiki_description": "room in a residential house for relaxing and socializing",
+    "wiki_link": "https://www.wikidata.org/wiki/Q475018",
+    "AAT_ID": 300004435,
+    "AAT_preffered_term": "living rooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004435"
+  },
+  {
+    "original_class": "television studio",
+    "wiki_label": "television studio",
+    "wiki_id": "Q511355",
+    "wiki_description": "installation in which video productions take place",
+    "wiki_link": "https://www.wikidata.org/wiki/Q511355",
+    "AAT_ID": 300005394,
+    "AAT_preffered_term": "television studios",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005394"
+  },
+  {
+    "original_class": "temple",
+    "wiki_label": "temple",
+    "wiki_id": "Q44539",
+    "wiki_description": "structure reserved for religious or spiritual activities",
+    "wiki_link": "https://www.wikidata.org/wiki/Q44539",
+    "AAT_ID": 300007595,
+    "AAT_preffered_term": "temples (buildings)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007595"
+  },
+  {
+    "original_class": "throne room",
+    "wiki_label": "throne room",
+    "wiki_id": "Q1251792",
+    "wiki_description": "Room in the official residence of the crown",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1251792",
+    "AAT_ID": 300004449,
+    "AAT_preffered_term": "throne rooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004449"
+  },
+  {
+    "original_class": "ticket booth",
+    "wiki_label": "kiosk",
+    "wiki_id": "Q693369",
+    "wiki_description": "small booths offering goods and services",
+    "wiki_link": "https://www.wikidata.org/wiki/Q693369",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "topiary garden",
+    "wiki_label": "garden",
+    "wiki_id": "Q1107656",
+    "wiki_description": "planned space set aside for the display, cultivation, and enjoyment of plants",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1107656",
+    "AAT_ID": 300008090,
+    "AAT_preffered_term": "gardens (open spaces)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008090"
+  },
+  {
+    "original_class": "tower",
+    "wiki_label": "tower",
+    "wiki_id": "Q12518",
+    "wiki_description": "structure with height greater than width",
+    "wiki_link": "https://www.wikidata.org/wiki/Q12518",
+    "AAT_ID": 300004847,
+    "AAT_preffered_term": "towers (single built works)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004847"
+  },
+  {
+    "original_class": "toyshop",
+    "wiki_label": "shop",
+    "wiki_id": "Q213441",
+    "wiki_description": "place where items or services are sold",
+    "wiki_link": "https://www.wikidata.org/wiki/Q213441",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "train interior",
+    "wiki_label": "train",
+    "wiki_id": "Q870",
+    "wiki_description": "one or more self-propelled vehicles that move along fixed rails to transport passengers, animals or cargo",
+    "wiki_link": "https://www.wikidata.org/wiki/Q870",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "train station",
+    "wiki_label": "train station",
+    "wiki_id": "Q55488",
+    "wiki_description": "railway facility where trains regularly stop to load or unload passengers and/or freight",
+    "wiki_link": "https://www.wikidata.org/wiki/Q55488",
+    "AAT_ID": 300007783,
+    "AAT_preffered_term": "railroad station",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007783"
+  },
+  {
+    "original_class": "tree farm",
+    "wiki_label": "tree farm",
+    "wiki_id": "Q2843044",
+    "wiki_description": "plantation for the cultivation of trees for harvest",
+    "wiki_link": "https://www.wikidata.org/wiki/Q2843044",
+    "AAT_ID": 300000218,
+    "AAT_preffered_term": "tree farms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000218"
+  },
+  {
+    "original_class": "tree house",
+    "wiki_label": "tree house",
+    "wiki_id": "Q5784194",
+    "wiki_description": "platform or building constructed around, next to or among the trunk or branches of one or more mature trees while above ground level",
+    "wiki_link": "https://www.wikidata.org/wiki/Q5784194",
+    "AAT_ID": 300005589,
+    "AAT_preffered_term": "tree houses",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300005589"
+  },
+  {
+    "original_class": "trench",
+    "wiki_label": "trench",
+    "wiki_id": "Q1852785",
+    "wiki_description": "excavated channel in ground",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1852785",
+    "AAT_ID": 300008022,
+    "AAT_preffered_term": "trenches",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008022"
+  },
+  {
+    "original_class": "tundra",
+    "wiki_label": "tundra",
+    "wiki_id": "Q43262",
+    "wiki_description": "biome where the tree growth is hindered by low temperatures and short growing seasons",
+    "wiki_link": "https://www.wikidata.org/wiki/Q43262",
+    "AAT_ID": 300008921,
+    "AAT_preffered_term": "tundras",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008921"
+  },
+  {
+    "original_class": "underwater",
+    "wiki_label": "underwater",
+    "wiki_id": "Q3246517",
+    "wiki_description": "realm below the surface of water",
+    "wiki_link": "https://www.wikidata.org/wiki/Q3246517",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "utility room",
+    "wiki_label": "utility room",
+    "wiki_id": "Q7902854",
+    "wiki_description": "room within a house where equipment not used in day-to-day activities is kept",
+    "wiki_link": "https://www.wikidata.org/wiki/Q7902854",
+    "AAT_ID": 300004526,
+    "AAT_preffered_term": "utility rooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004526"
+  },
+  {
+    "original_class": "valley",
+    "wiki_label": "valley",
+    "wiki_id": "Q39816",
+    "wiki_description": "low area between hills, often with a river running through it.",
+    "wiki_link": "https://www.wikidata.org/wiki/Q39816",
+    "AAT_ID": 300008761,
+    "AAT_preffered_term": "valleys (landforms)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008761"
+  },
+  {
+    "original_class": "vegetable garden",
+    "wiki_label": "kitchen garden",
+    "wiki_id": "Q624114",
+    "wiki_description": "space separate from the rest of the residential garden",
+    "wiki_link": "https://www.wikidata.org/wiki/Q624114",
+    "AAT_ID": 300008142,
+    "AAT_preffered_term": "vegetable gardens",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008142"
+  },
+  {
+    "original_class": "veterinarians office",
+    "wiki_label": "doctor's office",
+    "wiki_id": "Q718966",
+    "wiki_description": "general medical practice",
+    "wiki_link": "https://www.wikidata.org/wiki/Q718966",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "viaduct",
+    "wiki_label": "viaduct",
+    "wiki_id": "Q181348",
+    "wiki_description": "type of bridge crossing a valley or a gorge",
+    "wiki_link": "https://www.wikidata.org/wiki/Q181348",
+    "AAT_ID": 300007890,
+    "AAT_preffered_term": "viaducts",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007890"
+  },
+  {
+    "original_class": "village",
+    "wiki_label": "village",
+    "wiki_id": "Q532",
+    "wiki_description": "small clustered human settlement smaller than a town",
+    "wiki_link": "https://www.wikidata.org/wiki/Q532",
+    "AAT_ID": 300008372,
+    "AAT_preffered_term": "villages",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008372"
+  },
+  {
+    "original_class": "vineyard",
+    "wiki_label": "vineyard",
+    "wiki_id": "Q22715",
+    "wiki_description": "plantation of grape-bearing vines",
+    "wiki_link": "https://www.wikidata.org/wiki/Q22715",
+    "AAT_ID": 300000248,
+    "AAT_preffered_term": "vineyards",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000248"
+  },
+  {
+    "original_class": "volcano",
+    "wiki_label": "volcano",
+    "wiki_id": "Q8072",
+    "wiki_description": "natural, surface vent or fissure usually in a mountainous form",
+    "wiki_link": "https://www.wikidata.org/wiki/Q8072",
+    "AAT_ID": 300132325,
+    "AAT_preffered_term": "volcanoes",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300132325"
+  },
+  {
+    "original_class": "volleyball court",
+    "wiki_label": "volleyball court",
+    "wiki_id": "Q26707613",
+    "wiki_description": "surface used to play volleyball",
+    "wiki_link": "https://www.wikidata.org/wiki/Q26707613",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "waiting room",
+    "wiki_label": "waiting room",
+    "wiki_id": "Q674251",
+    "wiki_description": "indoor-area where people can wait for an appointment, train, plane, bus, etc.",
+    "wiki_link": "https://www.wikidata.org/wiki/Q674251",
+    "AAT_ID": 300004450,
+    "AAT_preffered_term": "waiting rooms",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300004450"
+  },
+  {
+    "original_class": "waterfall",
+    "wiki_label": "waterfall",
+    "wiki_id": "Q34038",
+    "wiki_description": "place where water flows over a vertical drop",
+    "wiki_link": "https://www.wikidata.org/wiki/Q34038",
+    "AAT_ID": 300008736,
+    "AAT_preffered_term": "waterfalls (natural bodies of water)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300008736"
+  },
+  {
+    "original_class": "watering hole",
+    "wiki_label": "body of water",
+    "wiki_id": "Q15324",
+    "wiki_description": "any significant accumulation of water, generally on a planet's surface",
+    "wiki_link": "https://www.wikidata.org/wiki/Q15324",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "water park",
+    "wiki_label": "water park",
+    "wiki_id": "Q740326",
+    "wiki_description": "amusement park that features pools with water play areas",
+    "wiki_link": "https://www.wikidata.org/wiki/Q740326",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "water tower",
+    "wiki_label": "water tower",
+    "wiki_id": "Q274153",
+    "wiki_description": "elevated structure supporting a water tank",
+    "wiki_link": "https://www.wikidata.org/wiki/Q274153",
+    "AAT_ID": 300006204,
+    "AAT_preffered_term": "water towers",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300006204"
+  },
+  {
+    "original_class": "wave",
+    "wiki_label": "sea",
+    "wiki_id": "Q165",
+    "wiki_description": "large body of saline water",
+    "wiki_link": "https://www.wikidata.org/wiki/Q165",
+    "AAT_ID": 300343616,
+    "AAT_preffered_term": "waves (natural events)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300343616"
+  },
+  {
+    "original_class": "wet bar",
+    "wiki_label": "room",
+    "wiki_id": "Q180516",
+    "wiki_description": "distinguishable space within a building or other structure",
+    "wiki_link": "https://www.wikidata.org/wiki/Q180516",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "wheat field",
+    "wiki_label": "field",
+    "wiki_id": "Q188869",
+    "wiki_description": "agricultural field",
+    "wiki_link": "https://www.wikidata.org/wiki/Q188869",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  },
+  {
+    "original_class": "wind farm",
+    "wiki_label": "wind farm",
+    "wiki_id": "Q194356",
+    "wiki_description": "group of wind turbines",
+    "wiki_link": "https://www.wikidata.org/wiki/Q194356",
+    "AAT_ID": 300000445,
+    "AAT_preffered_term": "wind power plants",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300000445"
+  },
+  {
+    "original_class": "windmill",
+    "wiki_label": "windmill",
+    "wiki_id": "Q38720",
+    "wiki_description": "machine that converts the energy of wind into rotational energy",
+    "wiki_link": "https://www.wikidata.org/wiki/Q38720",
+    "AAT_ID": 300006273,
+    "AAT_preffered_term": "windmills",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300006273"
+  },
+  {
+    "original_class": "yard",
+    "wiki_label": "yard",
+    "wiki_id": "Q1623285",
+    "wiki_description": "area of land immediately adjacent to a building or a group of buildings",
+    "wiki_link": "https://www.wikidata.org/wiki/Q1623285",
+    "AAT_ID": 300107979,
+    "AAT_preffered_term": "yards (open spaces)",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300107979"
+  },
+  {
+    "original_class": "youth hostel",
+    "wiki_label": "hostel",
+    "wiki_id": "Q654772",
+    "wiki_description": "cheap, sociable accommodation",
+    "wiki_link": "https://www.wikidata.org/wiki/Q654772",
+    "AAT_ID": 300007164,
+    "AAT_preffered_term": "youth hostels",
+    "AAT_pagelink": "http://vocab.getty.edu/page/aat/300007164"
+  },
+  {
+    "original_class": "zen garden",
+    "wiki_label": "japanese rock garden",
+    "wiki_id": "Q244226",
+    "wiki_description": "type of garden",
+    "wiki_link": "https://www.wikidata.org/wiki/Q244226",
+    "AAT_ID": null,
+    "AAT_preffered_term": "",
+    "AAT_pagelink": ""
+  }
+]

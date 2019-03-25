@@ -1,0 +1,114 @@
+[
+  {
+    "beeldid": "0000047",
+    "temporal": {
+      "key": [
+        "TIMEX_TIME"
+      ],
+      "value": [
+        "Bruxelles dans la nuit du 17 au 18 août 1940"
+      ]
+    },
+    "spatial": {
+      "key": [
+        "LOC_STREET"
+      ],
+      "value": [
+        "rue de la Braie"
+      ]
+    }
+  },
+  {
+    "beeldid": "0005817",
+    "temporal": {
+      "key": [
+        "TIMEX_TIME"
+      ],
+      "value": [
+        "Samedi soir"
+      ]
+    },
+    "spatial": {
+      "key": [
+        "LOC_PLACE",
+        "LOC_BUILDING"
+      ],
+      "value": [
+        "Bruxelles",
+        "la Bourse"
+      ]
+    }
+  },
+  {
+    "beeldid": "0033632",
+    "temporal": null,
+    "spatial": {
+      "key": [
+        "LOC_PLACE",
+        "LOC_BUILDING",
+        "LOC_PLACE",
+        "LOC_PLACE",
+        "LOC_PLACE",
+        "LOC_PLACE",
+        "LOC_BUILDING",
+        "LOC_PLACE"
+      ],
+      "value": [
+        "Borchgrave",
+        "l' Ambassade de Belgique",
+        "Madrid",
+        "Bruxelles",
+        "Toulon",
+        "Paris",
+        "la Gare du Midi",
+        "Bruxelles"
+      ]
+    }
+  },
+  {
+    "beeldid": "0034558",
+    "temporal": {
+      "key": [
+        "TIMEX_MISC",
+        "TIMEX_DATE"
+      ],
+      "value": [
+        "Monuments aux Martyrs de la Révolution de 1830",
+        "8/7/37"
+      ]
+    },
+    "spatial": {
+      "key": [
+        "LOC_SPACES",
+        "LOC_PLACE"
+      ],
+      "value": [
+        "la Place des Martyrs de 1830",
+        "Bruxelles"
+      ]
+    }
+  },
+  {
+    "beeldid": "0037962",
+    "temporal": {
+      "key": [
+        "TIMEX_MISC",
+        "TIMEX_DATE",
+        "TIMEX_DATE"
+      ],
+      "value": [
+        "Revue du printemps",
+        "8/4/1940",
+        "8/4/1940"
+      ]
+    },
+    "spatial": {
+      "key": [
+        "LOC_PLACE"
+      ],
+      "value": [
+        "Bruxelles"
+      ]
+    }
+  }
+]
