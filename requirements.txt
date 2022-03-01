@@ -11,6 +11,6 @@ tabulate==0.8.3
 requests==2.21.0
 SPARQLWrapper==1.8.2
 beautifulsoup4==4.7.1
-protobuf==3.7.0
+protobuf>=3.15.0
 scikit_learn==0.20.3
 typing==3.6.6
